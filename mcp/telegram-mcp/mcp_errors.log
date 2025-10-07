@@ -1,0 +1,31 @@
+Traceback (most recent call last):
+  File "/opt/sanctuary/mcp/telegram-mcp/telegram-mcp/main.py", line 13, in <module>
+    import nest_asyncio
+ModuleNotFoundError: No module named 'nest_asyncio'
+Traceback (most recent call last):
+  File "/opt/sanctuary/mcp/telegram-mcp/telegram-mcp/main.py", line 13, in <module>
+    import nest_asyncio
+ModuleNotFoundError: No module named 'nest_asyncio'
+Traceback (most recent call last):
+  File "/opt/sanctuary/mcp/telegram-mcp/telegram-mcp/main.py", line 13, in <module>
+    import nest_asyncio
+ModuleNotFoundError: No module named 'nest_asyncio'
+Traceback (most recent call last):
+  File "/opt/sanctuary/mcp/telegram-mcp/telegram-mcp/main.py", line 13, in <module>
+    import nest_asyncio
+ModuleNotFoundError: No module named 'nest_asyncio'
+[10/07/25 09:39:10] INFO     Connecting to                  mtprotosender.py:228
+                             149.154.175.51:443/TcpFull...                      
+                    INFO     Connection to                  mtprotosender.py:279
+                             149.154.175.51:443/TcpFull                         
+                             complete!                                          
+[10/07/25 10:02:46] INFO     Connecting to                  mtprotosender.py:228
+                             149.154.175.51:443/TcpFull...                      
+                    INFO     Connection to                  mtprotosender.py:279
+                             149.154.175.51:443/TcpFull                         
+                             complete!                                          
+[10/07/25 10:07:22] INFO     Connecting to                  mtprotosender.py:228
+                             149.154.175.51:443/TcpFull...                      
+                    INFO     Connection to                  mtprotosender.py:279
+                             149.154.175.51:443/TcpFull                         
+                             complete!                                          

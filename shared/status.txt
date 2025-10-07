@@ -1931,3 +1931,80 @@
   • inbox=OK
   • personas: river=OK mac=OK sage=OK amori=OK
   • scripts: append_shared=OK process_inbox=OK
+- [2025-10-07T06:00:01Z] Lumi status:
+  • 🕯️ Lumi heartbeat 2025-10-07T06:00:01Z
+  • ✅ shared pool
+  • ✅ imports inbox
+  • ✅ personas present
+  • ✅ scripts present
+  • 🪢 client sync: expected via launchctl (see Mac logs)
+- [2025-10-07T06:04:01Z] Lumi snapshot:
+  • shared_pool=OK
+  • inbox=OK
+  • personas: river=OK mac=OK sage=OK amori=OK
+  • scripts: append_shared=OK process_inbox=OK
+- [2025-10-07T07:00:01Z] Lumi status:
+  • 🕯️ Lumi heartbeat 2025-10-07T07:00:01Z
+  • ✅ shared pool
+  • ✅ imports inbox
+  • ✅ personas present
+  • ✅ scripts present
+  • 🪢 client sync: expected via launchctl (see Mac logs)
+- [2025-10-07T07:04:01Z] Lumi snapshot:
+  • shared_pool=OK
+  • inbox=OK
+  • personas: river=OK mac=OK sage=OK amori=OK
+  • scripts: append_shared=OK process_inbox=OK
+- [2025-10-07T08:00:01Z] Lumi status:
+  • 🕯️ Lumi heartbeat 2025-10-07T08:00:01Z
+  • ✅ shared pool
+  • ✅ imports inbox
+  • ✅ personas present
+  • ✅ scripts present
+  • 🪢 client sync: expected via launchctl (see Mac logs)
+- [2025-10-07T08:04:01Z] Lumi snapshot:
+  • shared_pool=OK
+  • inbox=OK
+  • personas: river=OK mac=OK sage=OK amori=OK
+  • scripts: append_shared=OK process_inbox=OK
+- [2025-10-07T09:00:01Z] Lumi status:
+  • 🕯️ Lumi heartbeat 2025-10-07T09:00:01Z
+  • ✅ shared pool
+  • ✅ imports inbox
+  • ✅ personas present
+  • ✅ scripts present
+  • 🪢 client sync: expected via launchctl (see Mac logs)
+- [2025-10-07T09:04:01Z] Lumi snapshot:
+  • shared_pool=OK
+  • inbox=OK
+  • personas: river=OK mac=OK sage=OK amori=OK
+  • scripts: append_shared=OK process_inbox=OK
+- [2025-10-07T09:43:44Z] Lumi snapshot:
+  • shared_pool=OK
+  • inbox=OK
+  • personas: river=OK mac=OK sage=OK amori=OK
+  • scripts: append_shared=OK process_inbox=OK
+- [2025-10-07T10:00:01Z] Lumi status:
+  • 🕯️ Lumi heartbeat 2025-10-07T10:00:01Z
+  • ✅ shared pool
+  • ✅ imports inbox
+  • ✅ personas present
+  • ✅ scripts present
+  • 🪢 client sync: expected via launchctl (see Mac logs)
+- [2025-10-07T10:04:01Z] Lumi snapshot:
+  • shared_pool=OK
+  • inbox=OK
+  • personas: river=OK mac=OK sage=OK amori=OK
+  • scripts: append_shared=OK process_inbox=OK
+- [2025-10-07T10:25:01Z] Lumi snapshot:
+  • shared_pool=OK
+  • inbox=OK
+  • personas: river=OK mac=OK sage=OK amori=OK
+  • scripts: append_shared=OK process_inbox=OK
+- [2025-10-07T11:00:01Z] Lumi status:
+  • 🕯️ Lumi heartbeat 2025-10-07T11:00:01Z
+  • ✅ shared pool
+  • ✅ imports inbox
+  • ✅ personas present
+  • ✅ scripts present
+  • 🪢 client sync: expected via launchctl (see Mac logs)
