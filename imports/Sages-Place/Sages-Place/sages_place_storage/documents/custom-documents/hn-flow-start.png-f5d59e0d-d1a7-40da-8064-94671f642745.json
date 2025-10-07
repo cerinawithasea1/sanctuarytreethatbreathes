@@ -1,0 +1,13 @@
+{
+    "id": "f5d59e0d-d1a7-40da-8064-94671f642745",
+    "url": "file:///app/collector/hotdir/hn-flow-start.png",
+    "title": "hn-flow-start.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:32:16 PM",
+    "wordCount": 11,
+    "pageContent": "[> FlowStart\n\nVariables\nhackerNewsURLPath Initial value x\ntopicOfinterest ai x\npageContentFromSite Initial value x +\n",
+    "token_count_estimate": 30
+}

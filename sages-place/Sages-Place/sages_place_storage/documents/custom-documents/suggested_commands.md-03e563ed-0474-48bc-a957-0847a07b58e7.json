@@ -1,0 +1,13 @@
+{
+    "id": "03e563ed-0474-48bc-a957-0847a07b58e7",
+    "url": "file:///app/collector/hotdir/suggested_commands.md",
+    "title": "suggested_commands.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:21 AM",
+    "wordCount": 165,
+    "pageContent": "# Suggested Commands for Config Project\n\n## MCP/Warp Setup Commands\n```bash\n# Deploy MCP configuration to Warp\n~/config/warp/setup-mcp.sh\n\n# Check MCP configuration\ncat \"~/Library/Application Support/Warp/settings/mcp.json\"\n\n# Verify environment variables\necho $SERENA_API_KEY\n```\n\n## Development Commands\n```bash\n# Navigate to config directory\ncd ~/config\n\n# List project structure\nls -la\ntree (if available)\n\n# Check database\nsqlite3 absdatabase.sqlite \".tables\"\n```\n\n## Version Control Commands\n```bash\n# Initialize git repo (if not already done)\ngit init\ngit add warp/\ngit commit -m \"Add Warp MCP configuration\"\n\n# Check status\ngit status\ngit log --oneline\n```\n\n## System Utilities (macOS/Darwin)\n```bash\n# File operations\nls -la          # List files with permissions\nfind . -name    # Find files by name\ngrep -r         # Recursive text search\n\n# Process management\nps aux | grep   # Find processes\nkillall         # Kill processes by name\n\n# System info\nsystem_profiler SPHardwareDataType  # Hardware info\nuname -a        # System information\n```\n\n## Backup & Maintenance\n```bash\n# Create backups\ncp -r warp/ backups/warp-$(date +%Y%m%d)/\n\n# Check logs\ntail -f logs/*.log\n\n# Clean cache\nrm -rf cache/*\n```",
+    "token_count_estimate": 304
+}

@@ -1,0 +1,13 @@
+{
+    "id": "14d97755-c787-4cff-932f-84195b119f3c",
+    "url": "file:///app/collector/hotdir/azure-openai-llm.png",
+    "title": "azure-openai-llm.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:40:30 PM",
+    "wordCount": 76,
+    "pageContent": "CQ Anything LLM\nLLM Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred LLM chat & embedding provider. Its important these keys are current and correct g\nLD APIKeys\nLLM Provider\nZ] Workspace Chat\n@ Azure OpenAl A\n© Appearance The enterprise option of OpenAl hosted on Azure services. v\nBB LLMPreference Azure Service Endpoint API Key Chat Deployment Name\n[cg Transcription Model\n[3 Embedder Preferences Chat Model Token Limit Embedding Deployment Name\n© VectorDatabase 128,000 (gpt-4-turbo) ~  nomic-embed-text:latest\n& EventlLogs\n& Privacy & Data\n",
+    "token_count_estimate": 141
+}

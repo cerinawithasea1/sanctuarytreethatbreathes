@@ -1,0 +1,13 @@
+{
+    "id": "095fd3a8-3cb4-4c9d-a52a-082927213428",
+    "url": "file:///app/collector/hotdir/aws-bedrock-llm.png",
+    "title": "aws-bedrock-llm.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:37:03 PM",
+    "wordCount": 120,
+    "pageContent": "CA Anything LLM\nLLM Preference\n\nINSTANCE SETTINGS These are the credentials and settings for your preferred LLM chat & embedding provider. Its important these keys are current and correct or else AnythingLLM will not function properly.\n\n£3 Al Providers v\nny LLM Provider\nVector Database vt AWS Bedrock ~\nEmbedder 3 : Run powerful foundation models privately with AWS Bedrock. Vv\nText Splitter & Chunking\nVoice & Speech ©) You should use a properly defined IAM user forinferencing.\n\nRead more on how to use AWS Bedrock in AnythingLLM ?\n\nTranscription\n\n& Admin < AWS Bedrock IAM Access ID AWS Bedrock IAM Access Key AWS region\nWorkspace Chats ecsccccsscccssccccce escccccsccccscsccoce Oregon (us-west-2) v\n\nAgent Skills Model ID Model context window\n\n& Customization meta.llama3-8b-instruct-v1:0 8191\n\n#4 Tools >\n\n© Security\n\nA Experimental Features\n\nContact Support\n\nPrivacy & Data\n\n¥ M 8 ©\n",
+    "token_count_estimate": 220
+}

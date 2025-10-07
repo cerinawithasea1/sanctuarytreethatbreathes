@@ -1,0 +1,13 @@
+{
+    "id": "65a99622-e079-4b9e-85ee-e6b1710d8801",
+    "url": "file:///app/collector/hotdir/qdrant-vectordb.png",
+    "title": "qdrant-vectordb.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:33:53 PM",
+    "wordCount": 56,
+    "pageContent": "CA Anything LLM\nVector Database\nINSTANCE SETTINGS These are the credentials and settings for how your AnythingLLM instance will function. It's important these keys are cy\n£ APIKeys\nVector Database Provider\nZ] Workspace Chat\n4 QDrant A\n© Appearance > Open source local and distributed cloud vector database. N\n[Z] LLM Preference QDrant API Endpoint API Key\nTranscription Model\nEmbedder Preferences\n® VectorDatabase\n5) Eventlogs\n& Privacy & Data\n",
+    "token_count_estimate": 102
+}

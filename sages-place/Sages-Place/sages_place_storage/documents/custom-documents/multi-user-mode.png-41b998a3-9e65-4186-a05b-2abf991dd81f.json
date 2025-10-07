@@ -1,0 +1,13 @@
+{
+    "id": "41b998a3-9e65-4186-a05b-2abf991dd81f",
+    "url": "file:///app/collector/hotdir/multi-user-mode.png",
+    "title": "multi-user-mode.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:35:19 PM",
+    "wordCount": 140,
+    "pageContent": "CA Anything LLM\nMulti-User Mode\nSetup your instance to support your team by activating Multi-User Mode.\n\nINSTANCE SETTINGS oy pray y °\n\n5] Workspace Chat ,\n\n2 Enable Multi-User Mode\n\n© Appearance LC)\n\n£0 APIKeys .\nAdmin account username\n\n[2 LLM Preference i\n\nadmin\n\nTranscription Model\nAdmin account password\n\n[2] Embedder Preferences\n\npassword\n\n[=] Vector Database\nBy default, you will be the only admin. As an admin you will need to\ncreate accounts for all new users or admins. Do not lose your\n\n©] Embedded Chat password as only an Admin user can reset passwords.\n\n8 Security\n\n5] EventlLogs Password Protection\nProtect your AnythingLLM instance with a password. If you forget this there Is no recovery method so ensure you save this password\n\n& Privacy & Data\nPassword Protect Instance\nBy default, you will be the only admin. As an admin you will need to\ncreate accounts for all new users or admins. Do not lose your\npassword as only an Admin user can reset passwords.\n",
+    "token_count_estimate": 222
+}

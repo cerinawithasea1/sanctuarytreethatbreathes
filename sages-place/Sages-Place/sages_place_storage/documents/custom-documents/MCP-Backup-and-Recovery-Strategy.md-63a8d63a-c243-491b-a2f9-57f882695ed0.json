@@ -1,0 +1,13 @@
+{
+    "id": "63a8d63a-c243-491b-a2f9-57f882695ed0",
+    "url": "file:///app/collector/hotdir/MCP Backup and Recovery Strategy.md",
+    "title": "MCP Backup and Recovery Strategy.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:19 AM",
+    "wordCount": 146,
+    "pageContent": "# MCP System Backup Strategy - Protecting AI Assistant Data\n\n## User Concern\n- Python crash was scary - what if system fails completely?\n- Want to backup all MCP tools, memories, configurations\n- Ensure AI assistant setup can be restored elsewhere\n\n## What Needs Backing Up\n1. **MCP Tool Configurations**\n   - Tool installations and settings\n   - Project configurations \n   - Custom workflows\n\n2. **Memory Files**\n   - All written memories from conversations\n   - Project-specific knowledge\n   - Learning and preferences\n\n3. **System Integration**\n   - MCP server configurations\n   - Permission settings\n   - Tool connections\n\n## Backup Strategy Ideas\n- External drive backup of MCP data\n- Cloud storage for memory files\n- Documentation of setup process\n- Export/import capabilities for configurations\n\n## Goal\n- Peace of mind that AI assistant setup is recoverable\n- Ability to restore full functionality on new system\n- Protection against system failures",
+    "token_count_estimate": 194
+}

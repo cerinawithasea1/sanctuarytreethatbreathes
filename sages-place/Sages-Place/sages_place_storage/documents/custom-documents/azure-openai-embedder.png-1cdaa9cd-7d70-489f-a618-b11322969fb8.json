@@ -1,0 +1,13 @@
+{
+    "id": "1cdaa9cd-7d70-489f-a618-b11322969fb8",
+    "url": "file:///app/collector/hotdir/azure-openai-embedder.png",
+    "title": "azure-openai-embedder.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:35:00 PM",
+    "wordCount": 94,
+    "pageContent": "CA Anything LLM\nEmbedding Preference\nINSTANCE SETTINGS When using an LLM that does not natively support an embedding engine - you may need to additionally specify credentials to forembedd\nEmbedding is the process of turning text into vectors. These credentials are required to turn your files and prompts into a format which An\n£ APIKeys\n= Workspace Chat Embedding Provider\n®© Appearance & Azure OpenAl A\nThe enterprise option of OpenAl hosted on Azure services 7\n[2] LLM Preference\nAzure Service Endpoint API Key Embedding Deployment Name\nTranscription Model\nhttps://mintplexlabs.openai.azur nomic-embed-text:latest\nEmbedder Preferences\n2 n a\n| = Text Splitter & Chunking\n© Vector Database\n5) EventlLogs\n& Privacy & Data\n",
+    "token_count_estimate": 170
+}

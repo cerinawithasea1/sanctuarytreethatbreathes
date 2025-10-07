@@ -1,0 +1,13 @@
+{
+    "id": "c49efdab-d438-4bfb-80c6-4a101fcc80ba",
+    "url": "file:///app/collector/hotdir/configuration-menu.png",
+    "title": "configuration-menu.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:40:58 PM",
+    "wordCount": 81,
+    "pageContent": "CA Anything LLM\n©  Y General Settings [Z] ChatSettings © VectorDatabase Agent Configuration\n+ New Workspace\nWorkspace Agent LLM Provider\nThe specific LLM provider & model that will be used for this workspace's @agent\n88 Code Assistant agent.\n[A Please make a selection ~\n88 Article Assistant Agents will not work until a valid selection is made. v 2)\n28 MintplexLabs 1,\nI default Configure Agent Skills\nRgEmiEEE Customize and enhance the default agent's capabilities by enabling or disabling\nspecific skills. These settings will be applied across all workspaces.\n+ New Thread\n",
+    "token_count_estimate": 128
+}

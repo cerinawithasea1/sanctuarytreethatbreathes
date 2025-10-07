@@ -1,0 +1,13 @@
+{
+    "id": "5e9f1b5d-08ca-4220-91a8-951b7df000f1",
+    "url": "file:///app/collector/hotdir/scrape.png",
+    "title": "scrape.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:38:55 PM",
+    "wordCount": 135,
+    "pageContent": "CA Anything LLM\n(6) @agent can you scrape the website useanything.com and give me a summary of features\ni ?\n+ New Workspace AnythingLLM have?\n88 Article Assistant Agent @agent invoked.\nSwapping over to agent chat. Type /exit to exit agent execution loop early.\n88 Code Assistant\n[debug]: @agent is attempting to call ‘web-scraping® tool\n88 Companion\n@agent: Scraping the content of https://useanything.com/\n28 MintplexLabs 7, &\n[= a Based on the webpage, here is a summary of the features of AnythingLLM:\nAl Agents Guide X Key Features:\n+ NewThread 01. Flexible: One-click installation and supports various operating systems (MacOS, Linux,\nand Windows).\n02. Secure: Fully private, doesn’t require internet connectivity, and only talks to explicitly\nconnected services.\n03. Customizable: Supports custom models, including enterprise models like GPT-4, open-\nsource models like Llama and Mistral, and more. T\n04. Unlimited Documents: Supports various document types, including PDFs, word\ndocuments, and more.\nSend amessage >\n2 M8 Ff\n",
+    "token_count_estimate": 247
+}

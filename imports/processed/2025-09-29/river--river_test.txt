@@ -1,0 +1,6 @@
+To: River
+Title: Kobo helper note
+Tags: kobo, auth
+
+The failed request with the kobo:// URL is the token you need.
+Use DevTools → Network → Copy URL.

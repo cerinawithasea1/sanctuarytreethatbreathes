@@ -1,0 +1,13 @@
+{
+    "id": "60e7c481-f6d4-4266-a414-d63bbe0916f3",
+    "url": "file:///app/collector/hotdir/has-flows.png",
+    "title": "has-flows.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:45:27 PM",
+    "wordCount": 233,
+    "pageContent": "o00 oa AnythingLLM | Your personal  X oa Create your first agent flow x ar v\n<& C  ® localhost:3000/settings/agents Yr 3 [= H\nCQ Anything LLM\nINSTANCE SETTINGS Agent Skills\n£3 Al Providers >\nRAG & long-term memory off >\n\" o”® Hacker News Headline Viewer C0) ©\n@ Admin >\nView & summarize documents Off >\nAgent Skills This tool can be used to visit hacker news webpage and extract ALL headlines and links\ni from the page that have to do with a particular topic.\nScrape websites off >\n© Community Hub > Available options for ‘page:\n(empty)\n@ Customization Generate & save files to browser Off > AEE\nnewest\nB53 Tools > the ‘topic’ variable is used as the guide line for what kinds of topic lami dinand\nGenerate charts Off > e “topic variable is used as the guide line for what kinds of topic | am interested in an:\nwhat should be done. Any articles or links that seem interesting should be returned to\n© Security me as clickable links in markdown\nWeb Search Off >\nps , Example:\nExperimental Features \"Checkout HackerNews newest and find political posts\"\nSQL Connector off > hackerNewsURLPath => \"newest\"\ntopicOfinterest => \"Political discussions oritems\"\nContact Support .\n£¥ Custom Skills\nPrivacy & Data \"Checkout HackerNews and find Al posts\"\nNoi ced skills q hackerNewsURLPath => \"\"\nlle RLU SEE topicOfinterest => \"Artificial intelligence”\nLearn about agent skills in the AnythingLLM Agent Docs.\no> Agent Flows 2» Open Builder\nHacker News Headline Viewer On >\nUrban Dictionary Translator off >\nyy M 8 ©\n",
+    "token_count_estimate": 358
+}

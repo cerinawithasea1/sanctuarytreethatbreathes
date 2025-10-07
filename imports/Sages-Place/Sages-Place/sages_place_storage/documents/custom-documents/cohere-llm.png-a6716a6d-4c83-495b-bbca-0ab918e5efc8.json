@@ -1,0 +1,13 @@
+{
+    "id": "a6716a6d-4c83-495b-bbca-0ab918e5efc8",
+    "url": "file:///app/collector/hotdir/cohere-llm.png",
+    "title": "cohere-llm.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:40:22 PM",
+    "wordCount": 54,
+    "pageContent": "CQ Anything LLM\nLLM Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred LLM chat & embedding provider. Its important these keys are current]\n£ APIKeys\nLLM Provider\nZ] Workspace Chat\n®Zcohere Cohere A\n© Appearance Run Cohere's powerful Command models. Ng\nA LLMPreference Cohere API Key Chat Model Selection\nTranscription Model command-light-nightly v\nEmbedder Preferences\n© VectorDatabase\n=) EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 107
+}

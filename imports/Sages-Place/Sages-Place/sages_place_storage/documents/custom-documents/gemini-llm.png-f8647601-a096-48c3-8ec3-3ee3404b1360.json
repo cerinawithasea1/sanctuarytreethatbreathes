@@ -1,0 +1,13 @@
+{
+    "id": "f8647601-a096-48c3-8ec3-3ee3404b1360",
+    "url": "file:///app/collector/hotdir/gemini-llm.png",
+    "title": "gemini-llm.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:33:36 PM",
+    "wordCount": 56,
+    "pageContent": "CA Anything LLM\nLLM Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred LLM chat & embedding provider. Its important these keys are ci\nLD APIKeys\nLLM Provider\nE] Workspace Chat\nGemini A\n© Appearance Google's largest and most capable Almodel 7\nBA LLMPreference Google Al API Key Chat Model Selection\nTranscription Model gemini-1.5-pro-latest v\nEmbedder Preferences\ne Vector Database\nE) EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 108
+}

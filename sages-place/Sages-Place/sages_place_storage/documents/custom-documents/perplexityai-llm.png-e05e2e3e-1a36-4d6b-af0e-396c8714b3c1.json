@@ -1,0 +1,13 @@
+{
+    "id": "e05e2e3e-1a36-4d6b-af0e-396c8714b3c1",
+    "url": "file:///app/collector/hotdir/perplexityai-llm.png",
+    "title": "perplexityai-llm.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:34:59 PM",
+    "wordCount": 59,
+    "pageContent": "CQ Anything LLM\nLLM Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred LLM chat & embedding provider. Its important these keys are currel\n£ APIKeys\nLLM Provider\nZ] Workspace Chat\nPerplexity Al A\n© Appearance Run powerful and internet-connected models hosted by Perplexity Al. 4\nBR LLMPreference Perplexity API Key Chat Model Selection\nTranscription Model sonar-small-chat v\nEmbedder Preferences\n© VectorDatabase\n[4] Event Logs\n& Privacy & Data\n",
+    "token_count_estimate": 115
+}

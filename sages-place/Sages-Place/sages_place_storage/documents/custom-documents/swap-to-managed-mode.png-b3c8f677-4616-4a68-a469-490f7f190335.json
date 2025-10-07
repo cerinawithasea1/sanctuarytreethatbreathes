@@ -1,0 +1,13 @@
+{
+    "id": "b3c8f677-4616-4a68-a469-490f7f190335",
+    "url": "file:///app/collector/hotdir/swap-to-managed-mode.png",
+    "title": "swap-to-managed-mode.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:36:11 PM",
+    "wordCount": 138,
+    "pageContent": "a AnythingLLM | Your personal LLM trained on anything - 0 x\nV17.7-nim-beta\nCA Anything LLM 3\nLLM Preference\nRE —— These are the credentials and settings for your preferred LLM chat & embedding provider. Is important these keys are current and correct or else AnythingLLMwillnot function properly.\n© AlProviders ¥\nam LLM Provider\nVectorDatabase A— 2\nEmbedder GE Run full parameter LLMs directly on your NVIDIA RTX GPU using NVIDIA NIM. -\nText Splitter & Chunking\n¢ Use NVIDIANIMin managed mode.\na <P Run NVIDIA NM models onyous own RTX GPU without ary of the complety of installation and configurations of specific ie.\nTranscription\n‘Swap to Managed Mode\n& Admin v\nGeneral Settings NVIDIA Nim Base URL ‘Chat Model Selection\nChats\nWorkspace http://172.18.118.137:8000/1 — loading available models —\n@ Agentskils Enterthe URL where NVIDIANIM is runing.\n@ Community Hub v\nExplore Trending\nYour Account\nimportitem\n& Customization\n£3 Tools\nEventlogs\nDeveloper API\nBrowser Extension\nA Experimental Features\nSS M8 ©\n- — 24270\nHQmEs 9x ~ Do pups\n",
+    "token_count_estimate": 278
+}

@@ -1,0 +1,13 @@
+{
+    "id": "907f3624-a452-47a9-84f4-a66f4be891fb",
+    "url": "file:///app/collector/hotdir/anthropic-llm.png",
+    "title": "anthropic-llm.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:34:03 PM",
+    "wordCount": 57,
+    "pageContent": "CA Anything LLM\nLLM Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred LLM chat & embedding provider. Its important these keys are currg\nLO APIKeys\nLLM Provider\n[5] Workspace Chat\nA\\ Anthropic A\n© Appearance Afriendly Al Assistant hosted by Anthropic. N\nA LLMPreference Anthropic API Key Chat Model Selection\n[9 Transcription Model claude-3-opus-20240229 v\n[& Embedder Preferences\n© VectorDatabase\nE) EventlLogs\n& Privacy & Data\n",
+    "token_count_estimate": 118
+}

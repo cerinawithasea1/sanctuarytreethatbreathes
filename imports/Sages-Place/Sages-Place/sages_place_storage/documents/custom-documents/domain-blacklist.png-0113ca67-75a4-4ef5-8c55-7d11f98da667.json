@@ -1,0 +1,13 @@
+{
+    "id": "0113ca67-75a4-4ef5-8c55-7d11f98da667",
+    "url": "file:///app/collector/hotdir/domain-blacklist.png",
+    "title": "domain-blacklist.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:43:06 PM",
+    "wordCount": 144,
+    "pageContent": "Create new embed for workspace X\nA {i YS Ko re SCA Rep |\nRestrict requests from domains\nThis filter will block any requests that come from a domain other than the list below.\nLeaving this empty means anyone can use your embed on any site.\nMax chats per day\nLimit the amount of chats this embedded chat can process ina 24 hour period. Zero Is unlimited.\n0\nMax chats per session\nLimit the amount of chats a session user can send with this embed in a 24 hour period. Zero is unlimited.\n0\nEnable dynamic model use\nAllow setting of the preferred LLM model to override the workspace default.\nEnable dynamic LLM temperature\nAllow setting of the LLM temperature to override the workspace default.\nEnable Prompt Override\nAllow setting of the system prompt to override the workspace default.\nAfter creating an embed you will be provided alink that you can publish on your website with a\nsimple <script> tag.\nCancel Create embed\n",
+    "token_count_estimate": 198
+}

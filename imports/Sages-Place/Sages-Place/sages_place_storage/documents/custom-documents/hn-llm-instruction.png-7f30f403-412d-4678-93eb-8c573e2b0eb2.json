@@ -1,0 +1,13 @@
+{
+    "id": "7f30f403-412d-4678-93eb-8c573e2b0eb2",
+    "url": "file:///app/collector/hotdir/hn-llm-instruction.png",
+    "title": "hn-llm-instruction.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:37:30 PM",
+    "wordCount": 58,
+    "pageContent": "@ LLMInstruction ~ Lx\nInstruction\nExtract all links from this content that would be relevant to this topic:\n${topicOfinterest}\nContent\n${pageContentFromSite}\nFormat your response as alist of markdown inks, with a brief description of why\neachlinkis relevant.\nIf no relevant links are found, say \"No relevant articles found.”\nResult Variable\nSelect or create variable v\nDirect Output\na PY\nThis wil prevent any further tool calls from being also being executed\n",
+    "token_count_estimate": 101
+}

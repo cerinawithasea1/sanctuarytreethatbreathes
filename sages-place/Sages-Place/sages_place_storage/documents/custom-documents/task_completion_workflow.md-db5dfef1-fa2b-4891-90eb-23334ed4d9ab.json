@@ -1,0 +1,13 @@
+{
+    "id": "db5dfef1-fa2b-4891-90eb-23334ed4d9ab",
+    "url": "file:///app/collector/hotdir/task_completion_workflow.md",
+    "title": "task_completion_workflow.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:21 AM",
+    "wordCount": 194,
+    "pageContent": "# Task Completion Workflow\n\n## After Configuration Changes\n1. **Test the configuration**:\n   - Verify template processing works\n   - Check that environment variables are properly substituted\n   - Test on a fresh terminal session\n\n2. **Validation Steps**:\n   ```bash\n   # For MCP changes\n   ~/config/warp/setup-mcp.sh\n   # Restart Warp and test MCP connectivity\n   \n   # For other configs\n   # Test the specific service/tool affected\n   ```\n\n3. **Documentation Updates**:\n   - Update README.md if setup process changes\n   - Document any new environment variables needed\n   - Add troubleshooting steps for common issues\n\n4. **Version Control**:\n   ```bash\n   cd ~/config\n   git add .\n   git commit -m \"Descriptive commit message\"\n   ```\n\n5. **Backup Important Changes**:\n   ```bash\n   # Create timestamped backup\n   cp -r warp/ backups/warp-$(date +%Y%m%d-%H%M)/\n   ```\n\n## Quality Checklist\n- [ ] Configuration templates process correctly\n- [ ] No hardcoded secrets in files\n- [ ] Documentation is updated\n- [ ] Cross-machine portability maintained\n- [ ] Backup created for significant changes\n- [ ] Changes tested in fresh environment",
+    "token_count_estimate": 264
+}

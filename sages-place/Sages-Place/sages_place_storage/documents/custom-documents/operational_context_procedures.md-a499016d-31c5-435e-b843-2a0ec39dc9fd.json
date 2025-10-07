@@ -1,0 +1,13 @@
+{
+    "id": "a499016d-31c5-435e-b843-2a0ec39dc9fd",
+    "url": "file:///app/collector/hotdir/operational_context_procedures.md",
+    "title": "operational_context_procedures.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:20 AM",
+    "wordCount": 133,
+    "pageContent": "# Operational Context Management Procedures\n\n1. **Start of Conversation**\n- Check active context using get_current_config\n- Load relevant memories based on initial user query\n- Establish baseline context for current session\n\n2. **During Operations**\n- Call think_about_task_adherence before any significant action\n- Use think_about_collected_information after gathering data\n- Call think_about_whether_you_are_done before concluding tasks\n\n3. **Context Switching Protocol**\n- Save current context state before switching\n- Load relevant context for new task\n- Maintain awareness of context stack\n\n4. **Memory Updates**\n- Write new memories for reusable information\n- Update existing memories when new patterns emerge\n- Cross-reference related memories\n\n5. **Error Prevention**\n- Never reconstruct context from conversation summaries\n- Always maintain active context awareness\n- Use proper context management tools instead of inference\n\n6. **Recovery Steps**\n- If context is unclear, check active configuration\n- If memory access is needed, use list_memories and read_memory\n- If context is lost, rebuild using proper tools rather than inference",
+    "token_count_estimate": 218
+}

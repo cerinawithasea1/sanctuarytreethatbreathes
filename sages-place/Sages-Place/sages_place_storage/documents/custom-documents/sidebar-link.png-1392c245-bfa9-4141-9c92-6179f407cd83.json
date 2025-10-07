@@ -1,0 +1,13 @@
+{
+    "id": "1392c245-bfa9-4141-9c92-6179f407cd83",
+    "url": "file:///app/collector/hotdir/sidebar-link.png",
+    "title": "sidebar-link.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:44:39 PM",
+    "wordCount": 89,
+    "pageContent": "CA Anything LLM\nSystem Prompt Variables Tl\nINSTANCE SETTINGS System prompt variables are used to store configuration values that can be referenced in your system prompt to enable dynamic content in your prompts.\nVoice & Speech\nfleiscreten + Add Variable\nKEY VALUE DESCRIPTION TYPE\n@ Admin v\ntime Current time System\nUsers\nWorkspaces\ndate Current date System\nWorkspace Chats\nInvites datetime Current date and time System\nAgent Skills\nuser.name Current user's username User\n@ Community Hub >\nuser.bio Current user's bio field from their profile User\n2 Customization\nF3 Tools v\nChat Embed History\nChat Embed\nEvent Logs\nDeveloper API\nSystem Prompt Variables\nBrowser Extension\nA Experimental Features\nContact Support\nPrivacy & Data\n¥ MM 8 ©\n",
+    "token_count_estimate": 161
+}

@@ -1,0 +1,13 @@
+{
+    "id": "398161a3-487c-43cf-a328-6c9c735c940a",
+    "url": "file:///app/collector/hotdir/_downloads.html",
+    "title": "_downloads.html",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:46:54 PM",
+    "wordCount": 67,
+    "pageContent": "<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<meta charset=\"UTF-8\">\n        <title> Downloads </title>\n    </head>\n    <body>\n        <h1> Downloads </h1>\n        <ul>\n            <li><a id=\"https://docs.anythingllm.com/\" href=\"index.html\"> Discord </a></li>\n        </ul>\n    </body>\n</html>\n",
+    "token_count_estimate": 86
+}

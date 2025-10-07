@@ -1,0 +1,13 @@
+{
+    "id": "8ba0e462-f40b-49eb-b909-1d55f37a2fa3",
+    "url": "file:///app/collector/hotdir/anti-virus-warning.png",
+    "title": "anti-virus-warning.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:36:44 PM",
+    "wordCount": 23,
+    "pageContent": "Windows protected your PC\nMicrosoft Defender SmartScreen prevented an unrecognized app from\nstarting. Running this app might put your PC at risk.\nApp: AnythingLLM_0.0.1-beta.exe\nPublisher: Unknown publisher\norion\n",
+    "token_count_estimate": 49
+}

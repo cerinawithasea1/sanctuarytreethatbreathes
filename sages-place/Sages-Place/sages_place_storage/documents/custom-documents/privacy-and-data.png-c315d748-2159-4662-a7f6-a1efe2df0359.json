@@ -1,0 +1,13 @@
+{
+    "id": "c315d748-2159-4662-a7f6-a1efe2df0359",
+    "url": "file:///app/collector/hotdir/privacy-and-data.png",
+    "title": "privacy-and-data.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:34:29 PM",
+    "wordCount": 172,
+    "pageContent": "CA Anything LLM\nPrivacy & Data-Handling\nINSTANCE SETTINGS This is your configuration for how connected third party providers and AnythingLLM handle your data.\n(5) Workspace Chat\nLLM Selection\n© Appearance\nOpenAl\n£ APIKeys * Your chats will not be used for training\n« Your prompts and document text used in response creation are visible to OpenAl\n(2) LLMPreference\nTranscription Model Embedding Preference\n@\nOpenAl\n[3 Embedder Preferences\n* Yourdocument text is sent to OpenAl servers\n© VectorDatabase * Your documents are not used for training\n2] Embedded Chat\nVector Database\n© Security £3: LanceDB\n{& EventLogs * Your vectors and document text are stored privately on this instance of AnythingLLM\nA» Privacy & Data\nAnonymous Telemetry Enabled\nAllevents do not record IP-address and contain no identifying\ncontent, settings, chats, or other non-usage based information. To\nsee thelist of event tags collected you can look on Github here.\nAs an open-source project we respect your right to privacy. We are\ndedicated to bullding the best solution for integrating Al and\ndocuments privately and securely. If you do decide to tum off\ntelemetry all we ask|s to consider sending us feedback and\nthoughts so that we can continue to improve AnythingLLM for you\nteam@mintplexiabs.com.\n",
+    "token_count_estimate": 291
+}

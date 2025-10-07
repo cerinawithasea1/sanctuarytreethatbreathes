@@ -1,0 +1,13 @@
+{
+    "id": "5857e8a3-0c39-4b77-bbf4-79a17bfa6810",
+    "url": "file:///app/collector/hotdir/default-transcription.png",
+    "title": "default-transcription.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:41:00 PM",
+    "wordCount": 98,
+    "pageContent": "CA Anything LLM\nTranscription Model Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred transcription model provider. Its important these keys are current and correct or else media file:\n£ APIKeys\nTranscription Provider\n[5] Workspace Chat\nCa AnythingLLM Built-In A\n© Appearance Runa built-in whisper model on this instance privately. Vv\n[El LLMPreference Using the local whisper model on machines with limited RAM or CPU can stall AnythingLLM when processing media files.\noa We recommend at least 2GB of RAM and upload files <10Mb.\nTranscription Model\nThe built-in model will automatically download on the first use.\n[& Embedder Preferences\nModel Selection\ne Vector Database\nXenova/whisper-small Vv\n[5 EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 169
+}

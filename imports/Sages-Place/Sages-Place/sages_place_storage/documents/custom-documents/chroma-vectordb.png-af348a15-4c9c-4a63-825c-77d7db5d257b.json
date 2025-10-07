@@ -1,0 +1,13 @@
+{
+    "id": "af348a15-4c9c-4a63-825c-77d7db5d257b",
+    "url": "file:///app/collector/hotdir/chroma-vectordb.png",
+    "title": "chroma-vectordb.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:35:34 PM",
+    "wordCount": 62,
+    "pageContent": "C4 Anything LLM\nVector Database\nINSTANCE SETTINGS These are the credentials and settings for how your AnythingLLM instance will function. It'simportant these keys are current and correct.\n£ APIKeys\nVector Database Provider\nZ] Workspace Chat\nChroma ~\n© Appearance Open source vector database you can host yourself or on the cloud. Vv\n[Z] LLM Preference Chroma Endpoint API Header API Key\nTranscription Model\n[® Embedder Preferences\n® Vector Database\n5) EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 109
+}

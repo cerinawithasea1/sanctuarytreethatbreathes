@@ -1,0 +1,48 @@
+name: Symlink Manager
+description: Manage symbolic links in ~/bin directory for executable scripts
+author: AI Assistant
+author_url: https://github.com
+tags:
+  - symlink
+  - utility
+  - bin
+shortcuts:
+  - name: Create Symlink
+    command: ln -s {{source_path}} ~/bin/{{link_name}}
+    description: Create a new symbolic link in ~/bin
+    args:
+      - name: source_path
+        description: Full path to the source file
+        default_value: /path/to/source
+      - name: link_name
+        description: Name for the symbolic link in ~/bin
+        default_value: script-name
+
+  - name: Remove Symlink
+    command: rm ~/bin/{{link_name}}
+    description: Remove an existing symbolic link from ~/bin
+    args:
+      - name: link_name
+        description: Name of the symbolic link to remove
+        default_value: script-name
+
+  - name: List All Symlinks
+    command: ls -l ~/bin | grep ^l
+    description: List all symbolic links in ~/bin directory
+
+  - name: View Symlink Details
+    command: ls -l ~/bin/{{link_name}}
+    description: View details of a specific symbolic link
+    args:
+      - name: link_name
+        description: Name of the symbolic link to inspect
+        default_value: script-name
+
+  - name: Create bin Directory
+    command: mkdir -p ~/bin
+    description: Create ~/bin directory if it doesn't exist
+
+  - name: Check PATH
+    command: echo $PATH | tr ':' '\n' | grep bin
+    description: Check if ~/bin is in PATH
+

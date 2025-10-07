@@ -1,0 +1,13 @@
+{
+    "id": "c054f115-bad4-43dc-85cb-45e1674f39cb",
+    "url": "file:///app/collector/hotdir/hn-web-scraping.png",
+    "title": "hn-web-scraping.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:32:40 PM",
+    "wordCount": 6,
+    "pageContent": "© WebScraping Ax\nURLto Scrape\n\nhttps://news.ycombinator.com/${hackerNewsURLPath}\nResult Variable\n\npageContentFromSite 2\n",
+    "token_count_estimate": 37
+}

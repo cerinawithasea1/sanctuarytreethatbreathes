@@ -1,0 +1,13 @@
+{
+    "id": "510bbd98-2272-410c-9a71-725f08b1947d",
+    "url": "file:///app/collector/hotdir/flow-info.png",
+    "title": "flow-info.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:31:03 PM",
+    "wordCount": 54,
+    "pageContent": "® Flowinfo\nFlow Name\nItisimportant to give your flow a name that an LLM can easily understand.\n\"SendMessageToDiscord\", \"CheckStockPrice\", \"CheckWeather\"\n\nEnter flow name\nDescription\nItis equally important to give your flow a description that an LLM can easily understand. Be sure\nto include the purpose of the flow, the context it will be used in, and any other relevant\ninformation.\n\nEnter flow description\n\n4\n1\n",
+    "token_count_estimate": 97
+}

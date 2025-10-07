@@ -1,0 +1,61 @@
+name: Convert Chapters
+description: Creates and runs a script to process metadata.json file
+command: |
+  # Prompt for metadata.json file path
+  read -p "Enter path to metadata.json: " METADATA_FILE
+  
+  # Create the Python script using heredoc
+  cat << 'EOF' > convert_chapters.py
+#!/usr/bin/env python3
+import json
+import sys
+import os
+
+def process_chapters(metadata_file):
+    with open(metadata_file, 'r') as f:
+        data = json.load(f)
+    
+    if 'chapters' not in data:
+        print("No chapters found in metadata.json")
+        return
+    
+    processed_data = {
+        "version": 1,
+        "chapters": []
+    }
+    
+    for chapter in data['chapters']:
+        processed_chapter = {
+            "title": chapter['title'],
+            "start_time": chapter['startTime']
+        }
+        processed_data['chapters'].append(processed_chapter)
+    
+    output_file = "processed_chapters.json"
+    with open(output_file, 'w') as f:
+        json.dump(processed_data, f, indent=2)
+    print(f"Processed chapters saved to {output_file}")
+
+if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        print("Usage: python3 convert_chapters.py <metadata.json>")
+        sys.exit(1)
+    
+    metadata_file = sys.argv[1]
+    if not os.path.exists(metadata_file):
+        print(f"Error: File {metadata_file} not found")
+        sys.exit(1)
+    
+    process_chapters(metadata_file)
+EOF
+  
+  # Make the script executable
+  chmod +x convert_chapters.py
+  
+  # Run the script with the provided metadata file
+  ./convert_chapters.py "$METADATA_FILE"
+tags:
+  - automation
+  - json
+  - metadata
+

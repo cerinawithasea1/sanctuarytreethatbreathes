@@ -1,0 +1,13 @@
+{
+    "id": "e2abe231-72f2-4c66-b3f3-d4b25beada9b",
+    "url": "file:///app/collector/hotdir/context_memory_integration.md",
+    "title": "context_memory_integration.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:19 AM",
+    "wordCount": 117,
+    "pageContent": "# Context and Memory System Integration\n\n1. **Context Categories**\n- Immediate Context: Current conversation and task state\n- Short-term Context: Recent decisions and preferences within session\n- Long-term Context: Persistent memories and established patterns\n\n2. **Memory Access Patterns**\n- Read relevant memories at conversation start\n- Update memories when discovering new persistent information\n- Cross-reference between related memories\n\n3. **Context Preservation Rules**\n- Save task-specific context when switching tasks\n- Maintain user preference context across sessions\n- Track tool usage patterns and effectiveness\n\n4. **Integration Points**\n- Link related memories to active context\n- Use context to determine relevant memories\n- Update memories based on context changes\n\n5. **Recovery Procedures**\n- If context is lost, rebuild from relevant memories\n- If memory access fails, fall back to active context\n- Maintain backup context points for critical operations",
+    "token_count_estimate": 177
+}

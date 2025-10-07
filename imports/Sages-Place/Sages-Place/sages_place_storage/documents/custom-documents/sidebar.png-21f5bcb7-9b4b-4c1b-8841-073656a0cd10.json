@@ -1,0 +1,13 @@
+{
+    "id": "21f5bcb7-9b4b-4c1b-8841-073656a0cd10",
+    "url": "file:///app/collector/hotdir/sidebar.png",
+    "title": "sidebar.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:45:24 PM",
+    "wordCount": 121,
+    "pageContent": "e000 oa AnythingLLM | Your personal  X ar Rd\n« > C ® localhost:3000/settings/agents bx ¢ Pa} [=] g\nCA Anything LLM\nINSTANCE SETTINGS Agent Skills\n33 AlProviders v\nRAG & long-term memory Default > .\nny £% Openmeteo weather api (\nVector Database View & summarize documents Default > Gets the weather for a given location latitude and longitude using the open-meteo API\nby @tcarambat\nEmbedder Scrape websites Default >\nText Splitter & Chunking OPEN_METEO_API_KEY\npolcelEinsEcl Generate & save files to browser off > selon\nTranscription The API key for the open-meteo API\nGenerate charts off >\n@ Admin v\nWeb Search off >\nWorkspace Chats\nAgent Skills SQL Connector off >\n& Customization &% Custom Skills\n#4 Tools v\nOpen meteo weather api On >\nChat Embed History\nChat Embed\nEvent Logs\nDeveloper API\nBrowser Extension\n© Security\nA Experimental Features\nContact Support\n¥ M 8 ©\n",
+    "token_count_estimate": 221
+}

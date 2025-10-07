@@ -1,0 +1,13 @@
+{
+    "id": "c9e444ca-bc4a-48cb-b7d1-0d950b30a2c6",
+    "url": "file:///app/collector/hotdir/api-call.png",
+    "title": "api-call.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:36:13 PM",
+    "wordCount": 14,
+    "pageContent": "£4\n@ APICall A xX\nURL\nhttps://api.example.com/endpoint + v\nMethod\nGET v\nHeaders +\nStore Response in\nSelect or create variable v\n1\n",
+    "token_count_estimate": 42
+}

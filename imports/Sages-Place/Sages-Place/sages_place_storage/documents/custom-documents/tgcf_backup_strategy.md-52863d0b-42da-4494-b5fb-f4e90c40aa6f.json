@@ -1,0 +1,13 @@
+{
+    "id": "52863d0b-42da-4494-b5fb-f4e90c40aa6f",
+    "url": "file:///app/collector/hotdir/tgcf_backup_strategy.md",
+    "title": "tgcf_backup_strategy.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:21 AM",
+    "wordCount": 175,
+    "pageContent": "# TGCF Backup Strategy Implementation\n\n## Backup Solution Created\n- **Scripts**: `backup_tgcf.sh` and `restore_tgcf.sh`\n- **Location**: `/Users/cerinawithasea/services/tgcf/`\n- **Documentation**: `BACKUP_GUIDE.md`\n\n## What Gets Backed Up\n1. **Complete Git Repository** (git bundle with all commits)\n2. **All Source Code** (including streamlit fixes)\n3. **Docker Configurations** (docker-compose.yml, Dockerfile)\n4. **Environment Files** (.env, tgcf.config.yml)\n5. **Persistent Data** (data/ directory with Telegram sessions)\n6. **Restoration Instructions** (auto-generated)\n\n## Backup Process\n- **Command**: `./backup_tgcf.sh`\n- **Output**: `~/backups/tgcf/tgcf_backup_YYYYMMDD_HHMMSS.tar.gz`\n- **Size**: ~440KB compressed\n- **Contains**: Git bundle, source code, configs, data, restore instructions\n\n## Restore Options\n1. **Full Restore**: Everything (recommended)\n2. **Git Only**: Repository and commits\n3. **Data Only**: Persistent data directory\n4. **Configs Only**: Environment and Docker files\n5. **Show Manifest**: Backup contents and metadata\n\n## Integration with User's Workflow\n- Compatible with existing Warp backup strategy\n- Uses same backup directory structure\n- Follows user's preference for dated backups\n- Can be automated via cron or aliases\n\n## Success Metrics\n- ✅ Successfully backed up complete TGCF setup\n- ✅ Verified backup contents and compression\n- ✅ Created interactive restore options\n- ✅ Documented recovery scenarios\n- ✅ Committed scripts to git for version control\n\n## Recovery Scenarios Covered\n- Complete system loss\n- Configuration corruption\n- Data directory issues\n- Git repository problems\n- Selective restoration needs",
+    "token_count_estimate": 396
+}

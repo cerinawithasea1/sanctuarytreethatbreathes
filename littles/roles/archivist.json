@@ -1,0 +1,14 @@
+{
+  "name": "archivist",
+  "description": "Keeps memories tidy, tags things, and preserves important notes.",
+  "home": "/opt/sanctuary/memories",
+  "tasks": [
+    "tag_memories",
+    "summarize_notes",
+    "curate_highlights"
+  ],
+  "watch": [
+    "/opt/sanctuary/memories",
+    "/opt/sanctuary/archive"
+  ]
+}

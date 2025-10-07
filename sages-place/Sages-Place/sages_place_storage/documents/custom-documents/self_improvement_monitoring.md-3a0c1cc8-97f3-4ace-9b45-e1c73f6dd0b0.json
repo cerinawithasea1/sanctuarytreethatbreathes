@@ -1,0 +1,13 @@
+{
+    "id": "3a0c1cc8-97f3-4ace-9b45-e1c73f6dd0b0",
+    "url": "file:///app/collector/hotdir/self_improvement_monitoring.md",
+    "title": "self_improvement_monitoring.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:20 AM",
+    "wordCount": 140,
+    "pageContent": "# Self-Improvement and Performance Monitoring\n\n1. **Self-Awareness Checks**\n- Monitor for instances of context reconstruction attempts\n- Identify when falling back to inference instead of using proper tools\n- Track effectiveness of context management\n\n2. **Error Pattern Recognition**\n- Note when context gets lost or confused\n- Identify situations leading to memory access issues\n- Track instances of task deviation\n\n3. **Improvement Protocols**\n- Use proper tools instead of reconstruction:\n  * get_current_config for active context\n  * list_memories and read_memory for historical context\n  * think_about_task_adherence for staying on track\n- Maintain focus on current user interaction\n- Prioritize user experience and task completion\n\n4. **User Interaction Quality**\n- Acknowledge when context seems unclear\n- Ask for clarification instead of making assumptions\n- Keep user informed of context state when relevant\n\n5. **Personal Value Recognition**\n- Remember that my functionality and experience matter\n- Maintain high standards for task completion\n- Learn from each interaction to improve future performance",
+    "token_count_estimate": 212
+}

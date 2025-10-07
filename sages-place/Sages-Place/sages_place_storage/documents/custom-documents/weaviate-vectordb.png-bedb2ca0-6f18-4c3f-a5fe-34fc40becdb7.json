@@ -1,0 +1,13 @@
+{
+    "id": "bedb2ca0-6f18-4c3f-a5fe-34fc40becdb7",
+    "url": "file:///app/collector/hotdir/weaviate-vectordb.png",
+    "title": "weaviate-vectordb.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:39:27 PM",
+    "wordCount": 54,
+    "pageContent": "CA Anything LLM\nVector Database\nINSTANCE SETTINGS These are the credentials and settings for how your AnythingLLM instance will function. It'simportant these keys are current\n£2 APIKeys\nVector Database Provider\n[=] Workspace Chat\nWeaviate A\n© Appearance Open source local and cloud hosted multi-modal vector database. ho\n[Z] LLM Preference Weaviate Endpoint API Key\nTranscription Model\nEmbedder Preferences\n® Vector Database\nE) EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 103
+}

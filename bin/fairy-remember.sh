@@ -1,0 +1,1 @@
+/opt/sanctuary/bin/remember.sh

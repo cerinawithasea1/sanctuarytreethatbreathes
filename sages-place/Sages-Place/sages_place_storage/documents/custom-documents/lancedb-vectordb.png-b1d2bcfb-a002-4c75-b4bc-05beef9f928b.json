@@ -1,0 +1,13 @@
+{
+    "id": "b1d2bcfb-a002-4c75-b4bc-05beef9f928b",
+    "url": "file:///app/collector/hotdir/lancedb-vectordb.png",
+    "title": "lancedb-vectordb.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:41:12 PM",
+    "wordCount": 61,
+    "pageContent": "CA Anything LLM\nVector Database\nINSTANCE SETTINGS These are the credentials and settings for how your AnythingLLM instance will function. It's important these keys are current and correct\n£2 APIKeys\nVector Database Provider\n[E] Workspace Chat\nLanceDB ~\n© Appearance 100% local vector DB that runs on the same instance as AnythingLLM. nd\n[E] LLMPreference There is no configuration needed for LanceDB.\nTranscription Model\nEmbedder Preferences\n® VectorDatabase\n[£) EventlLogs\n& Privacy & Data\n",
+    "token_count_estimate": 114
+}

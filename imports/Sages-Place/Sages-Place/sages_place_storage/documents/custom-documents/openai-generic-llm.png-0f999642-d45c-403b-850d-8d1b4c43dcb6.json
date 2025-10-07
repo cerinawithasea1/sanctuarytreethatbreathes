@@ -1,0 +1,13 @@
+{
+    "id": "0f999642-d45c-403b-850d-8d1b4c43dcb6",
+    "url": "file:///app/collector/hotdir/openai-generic-llm.png",
+    "title": "openai-generic-llm.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:45:18 PM",
+    "wordCount": 77,
+    "pageContent": "CA Anything LLM\nLLM Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred LLM chat & embedding provider. Its important these keys are current and correct or eise AnythingLLM will not function prope\n£ APIKeys\nLLM Provider Save cha\n[EZ] Workspace Chat\n(6) Generic OpenAl PS\n© Appearance «wwe Connect to any OpenAi-compatible service via a custom configuration \\7\nBE LLMPreference Base URL API Key Chat Model Name Token context window\nTranscription Model\n[& Embedder Preferences\n© VectorDatabase\nB Event Logs\n& Privacy & Data\nES M8 ©\n",
+    "token_count_estimate": 133
+}

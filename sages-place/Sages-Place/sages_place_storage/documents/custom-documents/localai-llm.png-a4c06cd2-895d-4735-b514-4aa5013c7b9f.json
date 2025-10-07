@@ -1,0 +1,13 @@
+{
+    "id": "a4c06cd2-895d-4735-b514-4aa5013c7b9f",
+    "url": "file:///app/collector/hotdir/localai-llm.png",
+    "title": "localai-llm.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:35:07 PM",
+    "wordCount": 73,
+    "pageContent": "CA Anything LLM\nLLM Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred LLM chat & embedding provider. Its important these keys are current and correct d\n£ APIKeys\nLLM Provider\n[Z] Workspace Chat\nfe Local Al A\n© Appearance ®  RunLLMs locally on your own machine. 7\nBB LLMPreference Local Al Base URL Chat Model Selection Token context window\nTranscription Model -- waiting for URL -- v\nLocal AlAPI Key optional\n[& Embedder Preferences\n© VectorDatabase\n©) EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 122
+}

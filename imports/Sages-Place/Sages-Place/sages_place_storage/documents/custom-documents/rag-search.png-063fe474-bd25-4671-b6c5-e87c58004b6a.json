@@ -1,0 +1,13 @@
+{
+    "id": "063fe474-bd25-4671-b6c5-e87c58004b6a",
+    "url": "file:///app/collector/hotdir/rag-search.png",
+    "title": "rag-search.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:34:17 PM",
+    "wordCount": 179,
+    "pageContent": "CA Anything LLM\nO @agent Can you check what you already know about AnythingLLM?\n+ New Workspace\n8 ver Agent @agent invoked.\nao Article Assistant Swapping over to agent chat. Type /exit to exit agent execution loop early.\n88 Code Assistant [debug]: @agent is attempting to call ‘rag-memory' tool\nEs Companion @agent: Found 4 additional piece of context to help answer this question.\n88 MintplexLabs 1, &\nA It appears that AnythingLLMis an Al assistant platform that offers various features and tools for customizing\n— default and interacting with language models.\nHere are some key points | gathered from the provided information:\nAl Agent Guide X\n+ NewThread\n01. AnythingLLMV1.5.4: The platformis currently on version 1.5.4, and an update is available.\n02. Features: AnythingLLM has a range of features, including:\n> AlAgents: These are LLMs (Large Language Models) that have access to simple tools and can\nperform tasks like scraping websites, summarizing documents, and saving files.\n© APlAccess: The platform provides APl access, allowing developers to manage, update,\nembed, and interact with workspaces.\no Appearance Customization: Users can customize the look and feel of their instance to match\ntheir brand and identity.\nA Ws ce\nSend amessage 3\nES Mm 8 Ff\n",
+    "token_count_estimate": 297
+}

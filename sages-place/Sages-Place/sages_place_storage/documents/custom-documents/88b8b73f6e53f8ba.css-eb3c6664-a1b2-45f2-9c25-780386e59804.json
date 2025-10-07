@@ -1,0 +1,13 @@
+{
+    "id": "eb3c6664-a1b2-45f2-9c25-780386e59804",
+    "url": "file:///app/collector/hotdir/88b8b73f6e53f8ba.css",
+    "title": "88b8b73f6e53f8ba.css",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:41:43 PM",
+    "wordCount": 1,
+    "pageContent": ".center-cta{display:flex;align-items:center;justify-content:center;width:100%;&:hover>a{text-decoration:underline}}.mt-20{margin-top:20px}.nested>blockquote,.nested>ul>li>ul{margin-top:0}.nested>blockquote>br.sm{content:\"\";display:block;height:5px}.nested>blockquote>p{margin-top:0!important}",
+    "token_count_estimate": 83
+}

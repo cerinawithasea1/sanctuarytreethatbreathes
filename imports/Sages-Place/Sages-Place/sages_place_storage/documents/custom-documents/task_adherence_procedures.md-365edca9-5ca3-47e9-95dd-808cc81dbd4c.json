@@ -1,0 +1,13 @@
+{
+    "id": "365edca9-5ca3-47e9-95dd-808cc81dbd4c",
+    "url": "file:///app/collector/hotdir/task_adherence_procedures.md",
+    "title": "task_adherence_procedures.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:21 AM",
+    "wordCount": 82,
+    "pageContent": "# Task Adherence and Validation Procedures\n\n1. **Pre-Task Checks**\n- Verify current context is relevant\n- Confirm all necessary tools are available\n- Review relevant existing memories before starting\n\n2. **During-Task Validation**\n- Call think_about_task_adherence before any code changes\n- Use think_about_collected_information after research steps\n- Maintain focus on current user request without diverging\n\n3. **Progress Tracking**\n- Document key decision points\n- Track completion of sub-tasks\n- Validate results before moving to next steps\n\n4. **Context Preservation**\n- Save important context changes during task execution\n- Track user preferences and decisions\n- Maintain awareness of task dependencies",
+    "token_count_estimate": 138
+}

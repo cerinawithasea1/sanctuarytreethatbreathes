@@ -1,0 +1,13 @@
+{
+    "id": "bd067324-8252-44b3-9ae1-81ca57d4e757",
+    "url": "file:///app/collector/hotdir/openai-embedder.png",
+    "title": "openai-embedder.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:44:09 PM",
+    "wordCount": 87,
+    "pageContent": "CA Anything LLM\nEmbedding Preference\nINSTANCE SETTINGS When using an LLM that does not natively support an embedding engine - you may need to additionally specify credentials to for el\nEmbedding is the process of turning text into vectors. These credentials are required to turn your files and prompts into a format wh\n£ APIKeys\n= Workspace Chat Embedding Provider\n®© Appearance ® OpenAl A\nThe standard option for most non-commercial use. 7\n[Z] LLM Preference\nAPI Key Model Preference\nTranscription Model i\ntext-embedding-3-large v\nEmbedder Preferences\nES 0 ’\n| = Text Splitter & Chunking\n© VectorDatabase\n5) EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 150
+}

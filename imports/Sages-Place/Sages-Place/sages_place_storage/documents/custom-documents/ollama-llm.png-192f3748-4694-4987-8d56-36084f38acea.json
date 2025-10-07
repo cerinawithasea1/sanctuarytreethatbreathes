@@ -1,0 +1,13 @@
+{
+    "id": "192f3748-4694-4987-8d56-36084f38acea",
+    "url": "file:///app/collector/hotdir/ollama-llm.png",
+    "title": "ollama-llm.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:37:20 PM",
+    "wordCount": 70,
+    "pageContent": "CA Anything LLM\nLLM Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred LLM chat & embedding provider. its important these keys are current and correct d\n£ APIKeys\nLLM Provider\n[Z] Workspace Chat\nfo) Ollama A\n© Appearance Run LLMs locally on your own machine. v\nHB LLMPreference Ollama Base URL Chat Model Selection Token context window\n[9 Transcription Model http://127.0.0.1:11434 -- loading available models —- v 8192\n[® Embedder Preferences\n© VectorDatabase\n©) EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 135
+}

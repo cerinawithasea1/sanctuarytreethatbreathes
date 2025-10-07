@@ -1,0 +1,13 @@
+{
+    "id": "c62a03f5-f072-4173-874c-a90734ebb2df",
+    "url": "file:///app/collector/hotdir/local-llm-loaded.png",
+    "title": "local-llm-loaded.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:31:30 PM",
+    "wordCount": 295,
+    "pageContent": "CA Anything LLM\nLLM Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred LLM chat & embedding provider. Its important these keys are current and correct or else AnythingLLM will not function properly.\n32 AlProviders v\nLLM Provider\nLLM\nVector Database mpm AnythingLLM ~\nDownload & run models from Meta, Mistral and more on this device with zero setup. Powered wv\nEmbedder\nby Ollama.\nText Splitter & Chunking\n+ Import custom model\nVoice & Speech\nTranscription Imported Models\n& Admin >\nft-anyt...8_0.gguf\nA Skill @® Imported locally Active ]\n® nt Ski\n=] Age s This is animported GGUF model from your\ncomputer.\n¢2 Customization\nUninstall\n£59 Tools >\n) Official Models\nA Experimental Features\nB Llama3.18B 4.7GB B Llama3 8B 4.7GB B Llama27B 3.8GB\nfe] Compiled by Ollama fe] Compiled by Ollama fe] Compiled by Ollama\nContact Support\nMeta Llama 3.1: The new state-of-the-art model Meta Llama 3: The previous generation of the Llama 2 is released by Meta Platforms, Inc. This\nPrivacy & Data from Meta. Llama model by Meta. modelis trained on 2... Read more\nB View Licenses B View Licenses @ View Licenses\nB Llama2 7B (Uncensored) 3.8GB B Llama213B 7.4GB B Codellama7B 3.8GB\nfe] Compiled by Ollama fe] Compiled by Ollama fe] Compiled by Ollama\nLlama 2 Uncensored is based on Meta's Llama 2 Llama 2 is released by Meta Platforms, Inc. This Alarge language model that can use text\nmodel, and was created b.. Read more modelis trained on2.. Read more prompts to generate and discu.. Read more\n@ View Licenses @ View Licenses @ View Licenses\nB Mistral 7B 41GB 2) Mixtral 8x7B 26GB B Gemma2 9B 5.4GB\nfe] Compiled by Ollama a - or fe] Compiled by Ollama\nxX\nMistral 7B is an LLM that outperforms Llama-27 . | is Gemmaz2 is the second evolution of the Google\n2 aM os 5) onmany benchmarks an.. Read more Model imported successfully! Gemma model, now availabl.. Read more\n@ View Licenses |=] View Licenses @ View Licenses\n",
+    "token_count_estimate": 584
+}

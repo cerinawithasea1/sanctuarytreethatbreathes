@@ -1,0 +1,13 @@
+{
+    "id": "705bfc54-a9f9-4783-9051-d7f329694e23",
+    "url": "file:///app/collector/hotdir/hn-flow-info.png",
+    "title": "hn-flow-info.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:45:57 PM",
+    "wordCount": 110,
+    "pageContent": "© Flowlinfo\nFlowName\nItis important to give your flow a name that an LLM can easlly understand.\nSendMessageToDiscord\", \"CheckStockPrice”, \"CheckWeather\nHacker News Headline Viewer\nDescription\nitis equally mportant to give your flow a description that an LLM can easly understand. Be sure\ntoinclude the purpose of the flow, the context it willbe used In, and any otherrelevant\ninformation.\nThis tool can be used to visit hacker news webpage and extract ALL headlines\nandlinks from the page that have to do with a particular topic.\nAvailable options for ‘page’:\n(empty) - front page\n“newest” - newest posts page\nExamples of howto use this flow:\n\"Find Al-related posts on HackerNews\"\n\"Show me political discussions from the newest HackerNews posts\nThe flow will return relevant articles as clickable markdown links.\n",
+    "token_count_estimate": 187
+}

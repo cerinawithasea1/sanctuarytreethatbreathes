@@ -1,0 +1,13 @@
+{
+    "id": "ce13df79-ee6c-4f5e-9cf0-2be929fdd988",
+    "url": "file:///app/collector/hotdir/llm.png",
+    "title": "llm.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:45:17 PM",
+    "wordCount": 102,
+    "pageContent": "CA Anything LLM\nSY General Settings [Z) Chat Settings © VectorDatabase Agent Configuration\n+ New Workspace\nPerformance of LLMs that do not explicitly support tool-\n€N calling is highly dependent on the model's capabilities and\n88 Code Assistant accuracy. Some abilities may be limited or non-functional.\n89 Article Assistant Workspace Agent LLM Provider\nThe specific LLM provider & model that will be used for this workspace's @agent\nagent.\n88 MintplexLabs 1, ©)\n2) Ollama ~ LE — 1\ni default Run LLMs locally on your own machine. hd\nAlAgent Guide Workspace Agent model\nThe specific LLM model that will be used for this workspace's @agent agent.\n+ NewThread\nllama3:8b-instruct-q8_0 v — 2\nUpdate workspace agent LE — 3\n",
+    "token_count_estimate": 179
+}

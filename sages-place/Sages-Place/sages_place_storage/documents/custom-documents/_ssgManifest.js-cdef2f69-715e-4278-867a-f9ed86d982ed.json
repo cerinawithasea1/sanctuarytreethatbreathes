@@ -1,0 +1,13 @@
+{
+    "id": "cdef2f69-715e-4278-867a-f9ed86d982ed",
+    "url": "file:///app/collector/hotdir/_ssgManifest.js",
+    "title": "_ssgManifest.js",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:43:05 PM",
+    "wordCount": 2,
+    "pageContent": "self.__SSG_MANIFEST=new Set,self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB();",
+    "token_count_estimate": 24
+}

@@ -1,0 +1,13 @@
+{
+    "id": "15b5da4a-c281-41ff-8f2d-ece05e80d604",
+    "url": "file:///app/collector/hotdir/OpenCore Legacy Patcher Process for Unsupported Macs.md",
+    "title": "OpenCore Legacy Patcher Process for Unsupported Macs.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:19 AM",
+    "wordCount": 239,
+    "pageContent": "# OpenCore Legacy Patcher (OCLP) for Unsupported Mac Installation\n\n## Key Learning: Use OCLP Instead of Manual OpenCore for Legacy Macs\n\n### Problem Solved\n- **Issue**: 2012 MacBook Pro (MacBookPro9,2) wouldn't recognize manually created OpenCore USB installers as bootable\n- **Root Cause**: Manual OpenCore configuration missing legacy-specific patches and drivers\n- **Solution**: OpenCore Legacy Patcher (OCLP) automates the entire process\n\n### OCLP Workflow\n1. **Create Installer** (on any Mac):\n   - Launch OCLP app\n   - Select \"Create macOS Installer\"\n   - Choose target macOS version (e.g., Ventura)\n   - Select USB drive\n   - OCLP downloads and patches automatically\n\n2. **Universal Installer**: \n   - Installer works on ANY supported Mac\n   - No need to specify target Mac during creation\n   - Hardware detection happens at boot time\n\n3. **Installation Process**:\n   - Boot USB on target Mac (2012 MBP)\n   - OCLP auto-detects hardware (MacBookPro9,2)\n   - Applies appropriate patches automatically\n   - Install macOS normally\n\n4. **Post-Install**:\n   - Run OCLP again on installed system\n   - Install post-install patches for full functionality\n\n### Why OCLP vs Manual OpenCore\n- **Automated**: No manual config.plist editing\n- **Hardware-Specific**: Knows exact patches needed per model\n- **Legacy Support**: Designed specifically for unsupported Macs\n- **Boot Visibility**: Solves USB recognition issues on older hardware\n- **Maintained**: Actively updated for new macOS versions\n\n### Space Requirements\n- Need ~14-15 GB free space for macOS installer download\n- USB should be 16GB+ for installer creation",
+    "token_count_estimate": 386
+}

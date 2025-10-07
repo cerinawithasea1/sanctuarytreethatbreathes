@@ -1,0 +1,13 @@
+{
+    "id": "1ccca7bc-94b9-4eb6-9874-3756d4e75168",
+    "url": "file:///app/collector/hotdir/_app-48d90a93e9e89fef.js",
+    "title": "_app-48d90a93e9e89fef.js",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:42:44 PM",
+    "wordCount": 7,
+    "pageContent": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2888],{6840:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/_app\",function(){return t(9645)}])},9645:function(n,u,t){\"use strict\";t.r(u);var r=t(5893);t(5069),u.default=function(n){let{Component:u,pageProps:t}=n;return(0,r.jsx)(r.Fragment,{children:(0,r.jsx)(u,{...t})})}},5069:function(){}},function(n){var u=function(u){return n(n.s=u)};n.O(0,[9774,179],function(){return u(6840),u(3079)}),_N_E=n.O()}]);",
+    "token_count_estimate": 174
+}

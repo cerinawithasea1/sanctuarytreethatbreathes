@@ -1,0 +1,13 @@
+{
+    "id": "a62bb5b3-97b4-42c8-abcd-b8cef0d8cbaf",
+    "url": "file:///app/collector/hotdir/openai-transcription.png",
+    "title": "openai-transcription.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:46:00 PM",
+    "wordCount": 59,
+    "pageContent": "CA Anything LLM\nTranscription Model Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred transcription model provider. Its important these keys are current and cq\n£ APIKeys\nTranscription Provider\n[5] Workspace Chat\n6) OpenAl A\n© Appearance Leverage the OpenAl Whisper-large model using your APl key. 7\n[2] LLM Preference API Key Whisper Model\nTranscription Model Whisper Large he\nEmbedder Preferences\n© VectorDatabase\n) EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 108
+}

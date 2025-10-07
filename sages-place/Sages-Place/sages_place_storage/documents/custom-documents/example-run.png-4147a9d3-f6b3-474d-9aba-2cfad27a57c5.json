@@ -1,0 +1,13 @@
+{
+    "id": "4147a9d3-f6b3-474d-9aba-2cfad27a57c5",
+    "url": "file:///app/collector/hotdir/example-run.png",
+    "title": "example-run.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:43:43 PM",
+    "wordCount": 162,
+    "pageContent": "00 oa AnythingLLM | Your personal XX oa Create your first agent flow Xx + v\n\n& Cc @® localhost:3000/workspace/agent-flow-testing bx ¢ Pl 0a :\n\nC4 Anything LLM IN]\n\n0 @agent canyou grab the “newest” hackernews posts and then see if there is anything about NVIDIA in the posts?\n+ New Workspace\n88 AgentFlowTesti.. .T, &\nL © Hacker News Headline Viewer completed successfully A\ndefault\n1/7 i o i o i i i B\n+ NewThread Agent @agent invoked. Swapping over to agent chat. Type /exit to exit agent execution loop early\n2/7 Executing flow: Hacker News Headline Viewer\n3/7 Scraping the content of https://news.ycombinator.com/newest\n4/7 Successfully scraped content from https://news.ycombinator.com/newest\n5/7 Processing data with LLM instruction...\n6/7 Sending request to LLM...\n7/7 Successfully received LLM response\n8/8 Hacker News Headline Viewer completed successfully\n(VA found a Hacker News post about NVIDIA titled “How to install Nvidia drivers on Ubuntu.” If you're interested, you can visit the post by clicking here. Let me know if\nthere's anything else you'd like to explore!\nSend amessage >\n¥ Mm 8 F 0 J\n",
+    "token_count_estimate": 291
+}

@@ -1,0 +1,13 @@
+{
+    "id": "262c7853-69b9-4dcd-a294-31794c5017eb",
+    "url": "file:///app/collector/hotdir/vector-search-preference.png",
+    "title": "vector-search-preference.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:31:03 PM",
+    "wordCount": 95,
+    "pageContent": "000 v1.7.2\nCA Anything LLM\n© SY General Settings [=] Chat Settings © VectorDatabase Agent Configuration\n+ New Workspace\nVector database identifier Vector Count\n28 Sample UA) sample ¢\ndefault Search Preference\n+ New Thread v Default ’ |\n\nAccuracy Optimized\nhallucinations.\nMax Context Snippets\nThis setting controls the maximum amount of context snippets the will be sent to the LLM for\nper chat or query.\nRecommended: 4\n\n4\n\nDecurnent similarity threshold\nThe minimum similarity score required for a source to be considered related to the chat. The\nhigher the number, the more similar the source must be to the chat.\n\nLew {g'milarity score & .25} v\n\nReset Vector Database\nUpdate workspace\n< MM 8 pF\n",
+    "token_count_estimate": 166
+}

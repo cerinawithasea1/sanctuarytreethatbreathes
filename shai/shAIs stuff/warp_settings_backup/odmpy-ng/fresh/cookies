@@ -1,0 +1,179 @@
+[
+    {
+        "domain": ".overdrive.com",
+        "expiry": 1744927704,
+        "httpOnly": false,
+        "name": "_gat_gtag_UA_3018520_4",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": "kcls.overdrive.com",
+        "expiry": 1744927944,
+        "httpOnly": true,
+        "name": "holdsAvailable",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "0"
+    },
+    {
+        "domain": "kcls.overdrive.com",
+        "expiry": 1744928243,
+        "httpOnly": false,
+        "name": "_gap",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "{%22kindleFulfillment%22:null}"
+    },
+    {
+        "domain": "kcls.overdrive.com",
+        "httpOnly": false,
+        "name": "urlHistory",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "[{%22route%22:47%2C%22roomKey%22:%22site-default%22%2C%22scroll%22:0}%2C{%22route%22:1940940944%2C%22roomKey%22:%22site-default%22%2C%22scroll%22:0}%2C{%22route%22:47%2C%22roomKey%22:%22site-default%22}]"
+    },
+    {
+        "domain": "kcls.overdrive.com",
+        "httpOnly": false,
+        "name": "od_newrelic",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "j%3A%7B%22enabled%22%3Afalse%7D"
+    },
+    {
+        "domain": "kcls.overdrive.com",
+        "expiry": 1776463643,
+        "httpOnly": false,
+        "name": "preferred-key",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "kcls"
+    },
+    {
+        "domain": ".overdrive.com",
+        "expiry": 1745014044,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.2.2074803947.1744927645"
+    },
+    {
+        "domain": "kcls.overdrive.com",
+        "expiry": 1744928243,
+        "httpOnly": false,
+        "name": "_cac",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "{%22holdLimit%22:25%2C%22accounts%22:[-1]%2C%22lastHoldEmail%22:%22cerina@cerinawithasea.org%22%2C%22bestLibraryKey%22:%22kcls%22%2C%22displayName%22:%22%22%2C%22email%22:%22%22%2C%22canPlaceHolds%22:true%2C%22isVisitingCard%22:false%2C%22checkoutLimitsByMediaType%22:{%22periodical%22:999999%2C%22video%22:0%2C%22audiobook%22:25%2C%22ebook%22:25}%2C%22allowReadingHistory%22:true%2C%22allowReadingHistorySince%22:%222025-03-08T18:57:11.28Z%22}"
+    },
+    {
+        "domain": "kcls.overdrive.com",
+        "expiry": 1776463644,
+        "httpOnly": false,
+        "name": "authority",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "ozone"
+    },
+    {
+        "domain": "kcls.overdrive.com",
+        "expiry": 1776463642,
+        "httpOnly": true,
+        "name": "profile",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "j%3A%7B%22sub%22%3A%22103876135%22%2C%22auth_time%22%3A1744927642%2C%22idp%22%3A%22local%22%2C%22puid%22%3A%22161507418%22%2C%22websiteId%22%3A%2212%22%2C%22ilsName%22%3A%22default%22%2C%22isSessionUser%22%3A%22false%22%2C%22patronId%22%3A%222828570%22%2C%22credentialId%22%3A%22152326085%22%2C%22name%22%3A%22103876135%22%2C%22amr%22%3A%22library%22%2C%22expires%22%3A%222026-04-17T22%3A07%3A22.969Z%22%2C%22globalPreferences%22%3A%7B%7D%2C%22patronUniqueId%22%3A161507418%2C%22selectedCardId%22%3A87672950%2C%22linkedCardCount%22%3A1%7D"
+    },
+    {
+        "domain": ".overdrive.com",
+        "expiry": 1779487644,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.2.946236959.1744927645"
+    },
+    {
+        "domain": ".overdrive.com",
+        "expiry": 1776463643,
+        "httpOnly": false,
+        "name": "language-selection",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "en"
+    },
+    {
+        "domain": "kcls.overdrive.com",
+        "expiry": 1744927943,
+        "httpOnly": true,
+        "name": "preferences",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "j%3A%7B%22language-selection%22%3A%22en%22%2C%22dyslexic%22%3A0%2C%22high-contrast%22%3A0%2C%22audience-setting%22%3A%7B%22all%22%3Atrue%2C%22juvenile%22%3Afalse%2C%22youngadult%22%3Afalse%2C%22generalcontent%22%3Afalse%2C%22adultonly%22%3Afalse%7D%2C%22auto-checkout-setting%22%3A1%7D"
+    },
+    {
+        "domain": "kcls.overdrive.com",
+        "expiry": 1745014042,
+        "httpOnly": true,
+        "name": "accountToken",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "f1d9ca9c966be112fb0bfc1214ca48a4%3AyYPwRh050zodwNaHYlhg410qEJnb7z9P0LVTdmFaty6eps3LC%2FmmyiZufz937JpfJE%2BTC9re1WbBwlkohHVDb9PZRw1HC%2BwaxLkMLkrfi4fV38qEc74wVde%2BMcFFgKdY5T486m8do4GoURDjbmX%2FDzXx5%2FHZgL76hr%2FquYzVABu5JZ45mzKHEDd6D9TG7goqzkSWirp5zuzGRXiOVHEwgvbieZBaZ8I5UGbnyigVHOZ68SOr1GqKk9tf8A0jrR3CNSZ1FWw1k4adAnx7K9A4eChsOBDAI4zX7cyL5DeRHWq9JESWJ0aNsHa2mDFGacT1IxngU5QChgHLnyPcmBkiYwjq3A78bUxMAFuVyx1c6jbowZd3zR%2BS5YN5Cw15eVGOVmGdeHLTHNnKFSpAGENmvMsU%2FTLDscl5UVdf7bD0NC1RjNz2vJpcBPckuL1A6u9%2BbbzclR6C09xG5lLmuNeBz8qmg7IWmNfLhryqBDICs02TprlPQgH04t15YDp4qzWX2BF3JyMU1pb8NUH8NvaCjx4lPudVwh2xBBrKz0BnCs5yzGcQQuIJHeLc1k5Y94VknBoR3P4zxIkt0IevWqN7321oonL6mW%2FvGt%2FUSfMMcbX%2FmeURaBMhgaf3askY%2BRbz7ylbebCphr8tr1eYqwxwTf7lemeAuOq77wWlFgwwVZTYsl1OcI29QNg5DWdTY9moKlsrx6vtEdjzaJS6NRBWN%2BaSEeKcVchPHVe5X%2B%2FDdSPDTQ9eB9tAlDUaJdBV6ob6HKN3DsKeF1PQzZmKO7L8%2F9krRY6rLd0KdG3dyDA2Bcc%2FG2orGq59nL74AlgdBPdATHRjCGwxk%2BEqGmoEBGGIqSC6mIis%2FD1vsVMNHkG0spS5VWOGqUiRvK8MwZfj7F3EkP%2F4f61P9L9rJS%2BXWj7WEsCI6EqkLzkcnt%2FbNImsLXOf7PU4j2qacAPjEbo%2BYgWWi650zBOg%2FZRnfQgSEvyejZPzPFFMV%2B9s8XRu99iB5Imx5Zf9MNNmT0Nao5W0IxqlZ3zi7HjSz0IDv%2BIEOAmqYMQUMMvJAqNgZP%2FKrx1NCJ0QqrfZLW3VK3myJeJl1IlwCO8X3YGNoxT%2BCg16wWpylY2H%2BBQ82kHAJ9vHX3Daz80cVleOXiJZjXas2bhqqRD4UPZdHTo4CH2wA%2FOMREI7goyVbam4JFu6mqFCynl2SHoVSB1EnbSUQ9bDHn9LEbSGZmJTX2TBH3yu7Ff1bAOM5ovQzf4LOF8dt8cHGuNpoLhiaO69ALDXG1RVTTf9bOYmtyVcivjYo80tPEu4OwhprOURAZIQUJp1jadKX9zDbvUW7Xx4WTMu2rqiTNiXWcstU5LxKphBmk5cS29MSSxJDCb6hZ2OKXK0R6WA60Unp14V2akO946Z%2Bih4YKhTL44I"
+    },
+    {
+        "domain": ".overdrive.com",
+        "expiry": 1779487644,
+        "httpOnly": false,
+        "name": "_ga_K0KB8V5TMY",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GS1.1.1744927644.1.0.1744927644.60.0.0"
+    },
+    {
+        "domain": ".overdrive.com",
+        "expiry": 1779487644,
+        "httpOnly": false,
+        "name": "od_track",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "3"
+    },
+    {
+        "domain": "kcls.overdrive.com",
+        "httpOnly": true,
+        "name": "_csrf",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "7TT3wsCTGGnnx-VjHjO19qO8"
+    },
+    {
+        "domain": "kcls.overdrive.com",
+        "expiry": 1776463642,
+        "httpOnly": true,
+        "name": "_rtc",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "140b5c319503b3790edcc38b3c290e9d%3A6q9xG7FfVmGJH1QDLvceYD443J%2FEb0U21m%2F%2F6bMsuYnoPOGWT%2B%2F%2BSj2U0EH7Nt3k4B5TWKn6QFV8xxUsy8ZLXj%2BGcpZRqi5cKGCP55iojKs%3D"
+    }
+]

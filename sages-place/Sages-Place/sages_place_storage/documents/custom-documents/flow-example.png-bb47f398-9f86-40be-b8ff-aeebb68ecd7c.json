@@ -1,0 +1,13 @@
+{
+    "id": "bb47f398-9f86-40be-b8ff-aeebb68ecd7c",
+    "url": "file:///app/collector/hotdir/flow-example.png",
+    "title": "flow-example.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:37:52 PM",
+    "wordCount": 132,
+    "pageContent": "00 oa AnythingLLM | Your personal XX oa What is an Agent Flow? ~ An. X ar v\n&« > C @® localhost:3000/settings/agents/builder/036a3e6e-a028-4d80-8a85-8bceb53f897a xs oF [=] 5\nCQ BUILDER Hacker News Headline Viewer C + New Flow\n® FlowlInfo\nFlow Name\nItis important to give your flow a name that an LLM can easily understand.\n\"SendMessageToDiscord\", \"CheckStockPrice\", \"CheckWeather\"\nHacker News Headline Viewer\nDescription\nItis equally important to give your flow a description that an LLM can easily understand. Be sure\ntoinclude the purpose of the flow, the context it will be used in, and any other relevant\ninformation.\nThis tool can be used to visit hacker news webpage and extract ALL headlines\nand links from the page that have to do with a particular topic.\nAvinilalnla Aamtinna far tima~nat: a\n> Flow Start\n3 variables defined\n8B Web Scraping 2 BY\nURL to Scrape\nhttps://news.ycombinator.com/${hackerNewsURLPath}\nResult Variable\npageContentFromSite v\n: @ 11 Minstruction AX\n",
+    "token_count_estimate": 279
+}

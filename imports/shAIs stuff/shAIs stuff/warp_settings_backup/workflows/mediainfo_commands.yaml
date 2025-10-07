@@ -1,0 +1,31 @@
+name: MediaInfo Commands
+description: Commands for analyzing audio files and metadata
+
+author: assistant
+tags: ["mediainfo", "audio", "metadata"]
+
+commands:
+  # Basic Information
+  mediainfo file.m4b                        # Show all metadata
+  mediainfo --Output=Summary file.m4b       # Show summary view
+  mediainfo --Output=JSON file.m4b          # Output in JSON format
+  
+  # Specific Audio Queries
+  mediainfo --Inform="Audio;%Duration%" file.m4b     # Get duration
+  mediainfo --Inform="Audio;%BitRate%" file.m4b      # Get bitrate
+  mediainfo --Inform="Audio;%SamplingRate%" file.m4b # Get sample rate
+  
+  # Batch Processing
+  mediainfo *.m4b                           # Process multiple files
+  mediainfo --Output=JSON *.m4b > info.json # Save to JSON file
+  fd -e m4b | xargs -I {} mediainfo {}      # Process found files
+  
+  # Custom Output Format
+  mediainfo --Inform="Audio;%Duration%,%BitRate%,%Channels%" file.m4b    # CSV format
+  mediainfo --Inform="General;Filename: %FileName%\nDuration: %Duration%" file.m4b
+  
+  # Audiobook Specific
+  mediainfo --Inform="General;%Duration/String3%" file.m4b  # Human readable duration
+  mediainfo --Inform="General;%Title%,%Album%" file.m4b     # Get title and album
+  mediainfo --Inform="Chapters;%Total%" file.m4b            # Get chapter count
+

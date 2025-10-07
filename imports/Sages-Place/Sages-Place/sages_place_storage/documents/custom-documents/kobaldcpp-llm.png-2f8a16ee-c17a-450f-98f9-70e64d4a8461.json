@@ -1,0 +1,13 @@
+{
+    "id": "2f8a16ee-c17a-450f-98f9-70e64d4a8461",
+    "url": "file:///app/collector/hotdir/kobaldcpp-llm.png",
+    "title": "kobaldcpp-llm.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:44:16 PM",
+    "wordCount": 63,
+    "pageContent": "C3 Anything LLM\nLLM Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred LLM chat & embedding provider. Its important these keys are current and correct\nLD APIKeys\nLLM Provider\n[E] Workspace Chat\n— KoboldCPP A\n© Appearance Run local LLMs using koboldcpp. v\nBA LLMPreference Base URL Chat Model Selection Token context window\nTranscription Model = waiting for URL — M\n[& Embedder Preferences\n© VectorDatabase\n(5) EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 114
+}

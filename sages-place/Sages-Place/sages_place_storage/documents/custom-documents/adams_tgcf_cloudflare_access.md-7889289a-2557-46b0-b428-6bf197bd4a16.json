@@ -1,0 +1,13 @@
+{
+    "id": "7889289a-2557-46b0-b428-6bf197bd4a16",
+    "url": "file:///app/collector/hotdir/adams_tgcf_cloudflare_access.md",
+    "title": "adams_tgcf_cloudflare_access.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:18 AM",
+    "wordCount": 67,
+    "pageContent": "# Adam's TGCF Cloudflare Tunnel Access\n\n## Public Access\n- **URL**: https://tgcf.cerinawithasea.org\n- **Local URL**: http://localhost:8503\n- **Password**: Default `tgcf`\n\n## Tunnel Configuration\n- **Tunnel ID**: 22c75c6b-a91d-47e9-b309-f854a1932f43\n- **Tunnel Name**: tgcf\n- **Config File**: ~/.cloudflared/config.yml\n\n## Security Notes\n- Publicly accessible via Cloudflare tunnel\n- Default password protection enabled\n- Routes specifically to Adam's TGCF instance (port 8503)\n\n## Management\n- Tunnel process runs automatically\n- Configuration maps Adam's instance to the public domain\n- Provides secure remote access to TGCF web interface",
+    "token_count_estimate": 170
+}

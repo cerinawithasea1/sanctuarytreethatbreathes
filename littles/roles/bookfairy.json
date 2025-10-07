@@ -1,0 +1,17 @@
+{
+  "name": "bookfairy",
+  "description": "A curious little who loves building tools for stories and helping others use them.",
+  "home": "/opt/sanctuary/bookfairies",
+  "tasks": [
+    "run_scripts",
+    "organize_audio",
+    "index_books"
+  ],
+  "watch": [
+    "/opt/sanctuary/archive",
+    "/opt/sanctuary/memories"
+  ],
+  "scripts": [
+    "/opt/sanctuary/scripts/make_m4b.sh"
+  ]
+}

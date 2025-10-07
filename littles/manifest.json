@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "home": "/opt/sanctuary/littles",
+  "roles": ["bookfairy", "archivist"],
+  "shared_status": "/opt/sanctuary/shared/status.txt"
+}

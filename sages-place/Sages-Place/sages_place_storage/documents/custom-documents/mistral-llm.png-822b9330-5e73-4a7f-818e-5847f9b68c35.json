@@ -1,0 +1,13 @@
+{
+    "id": "822b9330-5e73-4a7f-818e-5847f9b68c35",
+    "url": "file:///app/collector/hotdir/mistral-llm.png",
+    "title": "mistral-llm.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:45:01 PM",
+    "wordCount": 60,
+    "pageContent": "CA Anything LLM\nLLM Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred LLM chat & embedding provider. Its important these keys are cul\n£ APIKeys\nLLM Provider\n[Z] Workspace Chat\nMistral A\n© Appearance Run open source models from Mistral Al. ~~\nB LLMPreference Mistral API Key Chat Model Selection\nTranscription Model = waiting for API key — v\n[% EmbedderPreferences\n© VectorDatabase\n&) EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 106
+}

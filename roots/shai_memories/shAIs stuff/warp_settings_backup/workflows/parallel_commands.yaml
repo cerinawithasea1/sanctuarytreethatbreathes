@@ -1,0 +1,32 @@
+name: GNU Parallel Commands
+description: Common parallel processing commands for file operations
+
+author: assistant
+tags: ["parallel", "automation", "batch-processing"]
+
+commands:
+  # Basic Parallel Operations
+  parallel echo ::: A B C           # Process simple items in parallel
+  parallel -j4 command ::: *        # Run with 4 jobs max
+  parallel --bar command ::: *      # Show progress bar
+  
+  # File Processing
+  parallel ffmpeg -i {} {.}.mp3 ::: *.wav    # Convert WAV to MP3
+  parallel cp {} backup/ ::: *.m4b           # Copy all M4B files
+  parallel mediainfo {} ::: *.m4b            # Get info for audio files
+  
+  # Progress and Job Control
+  parallel --progress command ::: *          # Show detailed progress
+  parallel --eta command ::: *               # Show estimated time
+  parallel --joblog log.txt command ::: *    # Log job execution
+  
+  # Advanced Usage
+  parallel --pipe --block 10M command        # Process in 10MB blocks
+  parallel -S server1,server2 command        # Run on remote servers
+  parallel 'echo {1} {2}' ::: a b c ::: 1 2  # Multiple argument sets
+  
+  # Audio Processing Examples
+  fd -e m4b | parallel mediainfo {}          # Get info for all M4B files
+  fd -e wav | parallel "sox {} {.}.mp3"      # Batch convert audio
+  parallel --bar "ffmpeg -i {} -c copy {.}_fixed.m4b" ::: *.m4b  # Fix audio files
+

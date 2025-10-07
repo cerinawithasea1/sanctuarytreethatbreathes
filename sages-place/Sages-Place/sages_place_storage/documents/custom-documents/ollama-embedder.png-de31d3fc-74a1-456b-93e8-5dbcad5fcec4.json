@@ -1,0 +1,13 @@
+{
+    "id": "de31d3fc-74a1-456b-93e8-5dbcad5fcec4",
+    "url": "file:///app/collector/hotdir/ollama-embedder.png",
+    "title": "ollama-embedder.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:37:28 PM",
+    "wordCount": 99,
+    "pageContent": "CA Anything LLM\nEmbedding Preference\nINSTANCE SETTINGS When using an LLM that does not natively support an embedding engine - you may need to additionally specify credentials to for embeddi\nEmbedding is the process of turning text into vectors. These credentials are required to turn your files and prompts into a format which Anyti\nLO APIKeys\n=) Workspace Chat Embedding Provider\n®© Appearance fo) Ollama ~\nRun embedding models locally on your own machine. ~\n[Z] LLM Preference\nOllama Base URL Embedding Model Selection Max embedding chunk length\nTranscription Model\nhttp://127.0.0.1:11434 -- loading available models -- - 8192\nEmbedder Preferences\n| = Text Splitter & Chunking\n© Vector Database\n£ EventlLogs\n& Privacy & Data\n",
+    "token_count_estimate": 172
+}

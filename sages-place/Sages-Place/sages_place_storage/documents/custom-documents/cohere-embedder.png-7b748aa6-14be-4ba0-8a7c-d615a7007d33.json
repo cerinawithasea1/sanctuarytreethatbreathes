@@ -1,0 +1,13 @@
+{
+    "id": "7b748aa6-14be-4ba0-8a7c-d615a7007d33",
+    "url": "file:///app/collector/hotdir/cohere-embedder.png",
+    "title": "cohere-embedder.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:34:52 PM",
+    "wordCount": 84,
+    "pageContent": "CA Anything LLM\nEmbedding Preference\nINSTANCE SETTINGS When using an LLM that does not natively support an embedding engine - you may need to additionally specify credentials to for emi\nEmbedding is the process of turning text into vectors. These credentials are required to turn your files and prompts into a format whic|\n£) APIKeys\n= Workspace Chat Embedding Provider\n© Appearance Cohere A\nRun powerful embedding models from Cohere. Vv\n[2] LLM Preference\nAP| Key Model Preference\nTranscription Model\nembed-multilingual-light-v3.0 v\nEmbedder Preferences\n2 . q\n| = Text Splitter & Chunking\n© VectorDatabase\n[£) EventlLogs\n& Privacy & Data\n",
+    "token_count_estimate": 154
+}

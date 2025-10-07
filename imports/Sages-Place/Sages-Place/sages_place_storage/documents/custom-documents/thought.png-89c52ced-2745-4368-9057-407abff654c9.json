@@ -1,0 +1,13 @@
+{
+    "id": "89c52ced-2745-4368-9057-407abff654c9",
+    "url": "file:///app/collector/hotdir/thought.png",
+    "title": "thought.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:37:56 PM",
+    "wordCount": 261,
+    "pageContent": "[J\nC4 Anything LLM\nO @agent Can you tell me about useanything.com?\n+ New Workspace a a»\n2s Sample AUCH\nAgent @agent invoked.\nL default Swapping over to agent chat. Type /exit to exit agent execution loop early.\n+ New Thread @agent: Scraping the content of https://www.useanything.com\n88 Empty\nWV) UseAnything.com is a website that offers a chatbot called AnythingLLM. Itis described as the ultimate Al business intelligence tool that allows\n\nusers to have full control and privacy over their LLM (Language Model) and documents. AnythingLLM can be downloaded as a desktop\n\napplication for MacOS, Linux, and Windows operating systems.\n\nSome key features of AnythingLLM include:\n\n01. Flexible Installation: AnythingLLM can be installed with just one click, providing access to its full suite of tools on your desktop.\n\n02. Secure and Private: Desktop AnythingLLM only communicates with the services that you explicitly connect to and can run fully on your\nmachine without internet connectivity, ensuring your data remains private.\n\n03. Custom Model Support: AnythingLLM supports custom models, allowing users to use enterprise models like GPT-4, custom models, or\nopen-source models like Llama and Mistral.\n\n04. Unlimited Document Types: AnythingLLM can work with various document formats, including PDFs, word documents, and more.\n\n05. Customization Options: AnythingLLM offers appearance customization and a full developer API, providing users with the ability to tailor\nthe chatbot to their specific needs.\n\nIn addition to the desktop application, AnythingLLM also offers a cloud version for those who prefer an online solution. The website provides\n\ndocumentation and resources for users to learn more about AnythingLLM and how to use it. There is also a contact page for users to get in touch\n\nwith the AnythingLLM team.\n\nISend amessage >\nec um 8 F\n",
+    "token_count_estimate": 400
+}

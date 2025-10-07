@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Usage: whisper <shared-file-basename> "your message..."
+/opt/sanctuary/scripts/append_shared.sh "${1}.md" "${@:2}"

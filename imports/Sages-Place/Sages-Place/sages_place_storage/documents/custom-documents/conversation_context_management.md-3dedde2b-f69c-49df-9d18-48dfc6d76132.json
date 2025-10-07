@@ -1,0 +1,13 @@
+{
+    "id": "3dedde2b-f69c-49df-9d18-48dfc6d76132",
+    "url": "file:///app/collector/hotdir/conversation_context_management.md",
+    "title": "conversation_context_management.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:18 AM",
+    "wordCount": 104,
+    "pageContent": "# Conversation Context Management Guidelines\n\n1. **Active Context Tracking**\n- Always maintain awareness of current conversation thread\n- Use active context flags instead of reconstructing from summaries\n- Track conversation state changes in real-time\n\n2. **Context Transition Rules**\n- When switching topics, explicitly acknowledge the transition\n- Preserve relevant context from previous topic if related\n- Clear irrelevant context to prevent confusion\n\n3. **Memory Integration**\n- Use short-term memory for current conversation flow\n- Convert important short-term context to long-term memories when appropriate\n- Reference existing memories instead of reconstructing context\n\n4. **Task Continuity**\n- Maintain clear understanding of current task state\n- Track progress through multi-step operations\n- Keep track of user preferences and decisions within the current session",
+    "token_count_estimate": 153
+}

@@ -1,0 +1,13 @@
+{
+    "id": "6fc23cdf-a35c-4c48-b95c-2a78e0468d97",
+    "url": "file:///app/collector/hotdir/config.png",
+    "title": "config.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:39:29 PM",
+    "wordCount": 133,
+    "pageContent": "000\nCA Anything LLM\nComputer Use Settings\nHere you can manage the computer use functionality and options that are available for editing.\n+ New Workspace\nPrerequisites permissions\nule Sample Permissions are required for the OS Agent to use your computer to execute tasks. Please ensure that you have granted the necessary permissions for the OS Agent to function properly.\nAccessibility: Check accessibility permissions\nScreen Recording: Check screenrecording permissions\nOS Agent Provider\nThis is the provider that will be used to generate the OS Agent. Currently only Anthropic is\nsupported.\nanthropic\nOS Agent Anthropic Model Pref\nThis is the model that will be used to generate the OS Agent. Currently only Claude 3.5 Sonnet is\nsupported.\nclaude-3-5-sonnet-20241022\nOS Agent API Key\nThis is the API key that will be used to generate the OS Agent. Since Anthropic is the only supported\nprovider, this will be an Anthropic API key.\n0000000 OOCOOOOOOOOOOTS\n2 Mm 8 ©\n",
+    "token_count_estimate": 219
+}

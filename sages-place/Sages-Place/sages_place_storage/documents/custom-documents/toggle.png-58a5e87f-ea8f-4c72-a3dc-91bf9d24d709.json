@@ -1,0 +1,13 @@
+{
+    "id": "58a5e87f-ea8f-4c72-a3dc-91bf9d24d709",
+    "url": "file:///app/collector/hotdir/toggle.png",
+    "title": "toggle.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:46:11 PM",
+    "wordCount": 163,
+    "pageContent": "000\nCA Anything LLM\nINSTANCE SETTINGS A Experimental Features\n33 Al Providers v\nLive Document Sync Off >\nLLM\nVector Database 0S Agent (computeruse) on > OS Agent (computer use) @\nEmbedder\nText Splitter & Chunking Enable the ability for Lik touse your computer liz ahuman would to\nexecute tasks like opening files, running applications, automating\nVoice & Speech workflows, using a web browser, and more.\nTranscription Currently, this feature is only available via the Anthropic API, so you must\nhave an Anthropic API that supports the \"computer_use\" feature suite.\n@ Admin Vv\nBe aware that this feature can expose your computer to security risks if not\nGeneral Settings used properly. Screenshots and other information are sent to the LLM\nprovider as well for processing and context and the model may refuse to\nWorkspace Chats i .\nperform many automation tasks that involve user-generated content\n. generation.\nAgent Skills\n(2 Customization #7 Learn more about the risks from Anthropic research >\n7 Learn about this feature in AnythingLLM >\n#49 Tools Vv\nManage OS Agent Settings >\nEvent Logs\nDeveloper API\nBrowser Extension\nA Experimental Features\nContact Support\nPrivacy & Data\nES M8 5\n",
+    "token_count_estimate": 265
+}

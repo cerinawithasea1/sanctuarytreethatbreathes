@@ -1,0 +1,13 @@
+{
+    "id": "4ead7ec0-bc06-4b92-8f84-1fb83f8cb267",
+    "url": "file:///app/collector/hotdir/system-prompt-var.png",
+    "title": "system-prompt-var.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:44:36 PM",
+    "wordCount": 143,
+    "pageContent": "so © Cy © we ww\n. © whee EE — v D >\nEN as Ia\n. RU— .\nA\n[ee] La\n| — 9\nates joo) Sm——\nLJ -—— —\nSa c—\n| Se Ey\nPrompt\nThe prompt that will be used on this workspace. Define the context and instructions for the Al to generate aresponse.\nYou should to provide a carefully crafted prompt so the Al can generate arelevant and accurate response.\nYou caninsert prompt variables like: {time}, {date} , {datetime}, +2 more...\nGiven the following conversation, relevant context, and a follow up question, reply with an answer to\nthe current question the user is asking. Return only your response to the question given the above\ninformation following the users instructions as needed.\nThe current useris [{user.name) El this is what we know about them:\nBIO:\nThe current date is [es EJ&IInl=)]\nThis is an {invalid_variable} and you can see it is not highlighted\n4\nFS = =» »\nSa ld O* am® mpm\n",
+    "token_count_estimate": 237
+}

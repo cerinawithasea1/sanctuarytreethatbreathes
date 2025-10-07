@@ -1,0 +1,13 @@
+{
+    "id": "c6e7e46d-469b-4774-9e74-b36c232cdac4",
+    "url": "file:///app/collector/hotdir/development_environment.md",
+    "title": "development_environment.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:19 AM",
+    "wordCount": 72,
+    "pageContent": "# Development Environment & Infrastructure\n\n## Container System\n- **Docker**: Engine Community Edition 28.0.0 with Orbstack (NOT Podman)\n- **Platform**: macOS arm64 (M1 Mac)\n\n## Key Container Workflows\n- **Audiobookshelf**: Container named 'orb'\n- **auto-m4b**: Audio processing container\n- Directory bind mounts for media processing workflows\n\n## File System Layout\n- **Main work directory**: `/Users/cerinawithasea/Music`\n- **Project files**: `/Volumes/Cerina/Documents/4warp/`\n- **Config directory**: `/Users/cerinawithasea/config` (current project)\n- **AI documentation**: `/Users/cerinawithasea/Documents/shAIs stuff`\n\n## Hardware Considerations\n- M1 Mac-specific container compatibility requirements\n- Need to verify arm64 support for containers",
+    "token_count_estimate": 182
+}

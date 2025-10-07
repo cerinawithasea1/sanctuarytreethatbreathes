@@ -1,0 +1,13 @@
+{
+    "id": "60757c70-471e-4224-8e7a-d31a92c2667a",
+    "url": "file:///app/collector/hotdir/configuration-options.png",
+    "title": "configuration-options.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:32:38 PM",
+    "wordCount": 168,
+    "pageContent": "Create new embed for workspace X\nWorkspace\nThis Is the workspace your chat window will be based on. All defaults will be inherited from the workspace\nunless overridden by this config.\ntest\nAllowed chat method\nSethow your chatbot should operate. Query means it will only respond if a document helps answer the query.\nChat opens the chat to even general questions and can answer totally unrelated queries to your workspace.\nO Chat: Respond to all questions regardless of context\n@ Query: Only respond to chats related to documents in workspace\nRestrict requests from domains\nThis filter will block any requests that come from a domain other than the list below.\nLeaving this empty means anyone can use your embed on any site.\nMax chats per day\nLimit the amount of chats this embedded chat can process ina 24 hour period. Zero is unlimited.\n0\nMax chats per session\nLimit the amount of chats a session user can send with this embed in a 24 hour period. Zero is unlimited.\n0\nEnable dynamic model use\nAllow setting of the preferred LLM mode to override the workspace default.\nCancel Create embed\n",
+    "token_count_estimate": 226
+}

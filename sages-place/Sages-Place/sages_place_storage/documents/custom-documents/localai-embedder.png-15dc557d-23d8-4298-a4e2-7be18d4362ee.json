@@ -1,0 +1,13 @@
+{
+    "id": "15dc557d-23d8-4298-a4e2-7be18d4362ee",
+    "url": "file:///app/collector/hotdir/localai-embedder.png",
+    "title": "localai-embedder.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:41:24 PM",
+    "wordCount": 102,
+    "pageContent": "CA Anything LLM\nEmbedding Preference\nINSTANCE SETTINGS When using an LLM that does not natively support an embedding engine - you may need to additionally specify credentials to forembedd\nEmbedding is the process of turning text into vectors. These credentials are required to turn your files and prompts into a format which An;\nLD APIKeys\n= Workspace Chat Embedding Provider\n© Appearance fe Local Al A\n= Run embedding models locally on your own machine. v\n[Z] LLM Preference\nLocalAl Base URL Embedding Model Name Max embedding chunk length\nTranscription Model\nhttp://localhost:8080/v1 -- loading available models — v 8192\nEmbedder Preferences\nLocal AlAPIKey optional\n| + Text Splitter & Chunking\n© Vector Database\n(5) EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 171
+}

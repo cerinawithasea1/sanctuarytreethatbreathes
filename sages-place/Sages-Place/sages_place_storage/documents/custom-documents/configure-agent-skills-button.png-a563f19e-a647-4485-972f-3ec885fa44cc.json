@@ -1,0 +1,13 @@
+{
+    "id": "a563f19e-a647-4485-972f-3ec885fa44cc",
+    "url": "file:///app/collector/hotdir/configure-agent-skills-button.png",
+    "title": "configure-agent-skills-button.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:40:54 PM",
+    "wordCount": 115,
+    "pageContent": "CA Anything LLM\nSP General Settings [=] Chat Settings © VectorDatabase Agent Configuration\n+ New Workspace\nPerformance of LLMs that do not explicitly support tool-\nEA calling is highly dependent on the model's capabilities and\n88 Code Assistant accuracy. Some abilities may be limited or non-functional.\n89 Article Assistant Workspace Agent LLM Provider\nThe specific LLM provider & model that will be used for this workspace's @agent\nagent.\n28 Mintplextabs 1, &\nfo) Ollama A\nI default Run LLMs locally on your own machine. hd\nAlAgent Guide Workspace Agent model\nThe specific LLM model that will be used for this workspace's @agent agent.\n+ NewThread\nllama3:8b-instruct-q8_0 7\nConfigure Agent Skills — 1\nCustomize and enhance the default agent's capabilities by enabling or disabling\nspecific skills. These settings will be applied across all workspaces.\n",
+    "token_count_estimate": 196
+}

@@ -1,0 +1,13 @@
+{
+    "id": "cdcfa886-6722-4880-be57-fd0723c70a80",
+    "url": "file:///app/collector/hotdir/telegram-mcp-configuration-fix.md",
+    "title": "telegram-mcp-configuration-fix.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:21 AM",
+    "wordCount": 195,
+    "pageContent": "# Telegram MCP Configuration Fix - RESOLVED ✅\n\n## Problem Identified\nTelegram MCP was fully configured with correct credentials but **NOT working** after Warp restart because: \n- MCP config was using wrong command: 'python -m telegram_mcp'\n- Should use direct execution: '.venv/bin/python main.py'\n\n## Root Cause\n- The telegram-mcp project doesn't install as a Python module\n- It runs directly via 'main.py' script\n- Needs virtual environment's Python interpreter\n\n## Configuration Fix Applied\n**Method**: Manual addition via Warp Settings UI (not direct file editing)\n\n**Configuration**:\n```json\n{\n  \"Telegram MCP\": {\n    \"command\": \"/Users/cerinawithasea/config/warp/mcp/telegram-mcp/.venv/bin/python\",\n    \"args\": [\"main.py\"],\n    \"env\": {\n      \"TELEGRAM_API_ID\": \"24720388\",\n      \"TELEGRAM_API_HASH\": \"28b6e51ff2fd0845b9074728a7effd0e\",\n      \"TELEGRAM_SESSION_STRING\": \"[long session string]\"\n    },\n    \"working_directory\": \"/Users/cerinawithasea/config/warp/mcp/telegram-mcp\",\n    \"start_on_launch\": true\n  }\n}\n```\n\n## Final Result - SUCCESS! ✅\n- **Serena MCP**: Working (coding tools)\n- **Telegram MCP**: Working (60+ telegram tools available)\n- Status: Both servers running properly\n\n## Key Lessons\n1. Always test MCP servers manually first\n2. Use Warp Settings UI to add MCP servers (not direct file editing)\n3. JSON syntax must be perfect (commas between env vars!)\n4. Direct execution path works better than module imports for custom projects",
+    "token_count_estimate": 367
+}

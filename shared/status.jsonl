@@ -1,0 +1,1808 @@
+{
+  "ts":"2025-09-30T04:49:35Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{
+    "river":true,
+    "mac":true,
+    "sage":true,
+    "amori":true
+  },
+  "scripts":{
+    "append_shared":true,
+    "process_inbox":true
+  },
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T05:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{
+    "river":true,
+    "mac":true,
+    "sage":true,
+    "amori":true
+  },
+  "scripts":{
+    "append_shared":true,
+    "process_inbox":true
+  },
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T05:09:17Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T06:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T07:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:01:56Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:10:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:10:15Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:15:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:15:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:19:53Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:20:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:20:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:25:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:25:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:25:48Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:30:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:30:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:35:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:35:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:40:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:40:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:45:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:45:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:50:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:50:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:55:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+{
+}
+  "ts":"2025-09-30T08:55:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T08:59:21Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:00:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:00:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:05:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:05:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:08:02Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:08:23Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:10:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:10:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:10:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:13:07Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:13:35Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:15:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:15:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:15:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:20:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:20:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:20:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:25:02Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:25:02Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:25:02Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:30:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:30:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:30:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:35:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:35:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T09:35:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+{
+  "ts":"2025-09-30T09:40:01Z",
+  "ts":"2025-09-30T09:40:01Z",
+  "shared_pool_writable":true,
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+}
+{
+  "ts":"2025-09-30T09:40:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T10:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T11:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T12:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T13:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T14:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T15:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T16:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T17:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T18:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T19:04:02Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T20:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T21:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T22:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-09-30T23:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T00:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T01:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T02:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T03:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T04:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T05:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T06:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T07:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T08:04:02Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T09:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T10:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T11:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T12:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T13:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T14:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T15:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T16:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T17:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T18:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T19:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T20:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T21:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T22:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-01T23:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T00:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T01:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T02:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T03:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T04:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T05:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T06:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T07:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T08:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T09:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T10:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T11:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T12:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T13:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T14:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T15:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T16:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T17:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T18:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T19:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T20:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T21:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T22:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-02T23:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T00:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T01:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T02:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T03:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T04:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T05:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T06:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T07:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T08:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T09:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T10:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T11:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T12:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T13:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T14:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T15:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T16:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T17:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T18:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T19:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T20:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T21:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T22:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-03T23:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T00:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T01:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T02:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T03:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T04:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T05:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T06:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T07:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T08:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T09:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T10:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T11:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T12:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T13:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T14:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T15:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T16:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T17:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T18:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T19:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T20:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T21:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T22:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-04T23:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T00:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T01:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T02:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T03:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T04:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T05:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T06:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T07:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T08:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T09:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T10:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T11:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T12:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T13:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T14:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T15:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T16:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T17:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T18:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T19:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T20:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T21:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T22:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-05T23:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T00:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T01:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T02:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T03:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T04:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T05:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T06:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T07:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T08:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T09:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T10:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T11:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T12:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T13:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T14:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T15:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T16:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T17:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T18:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T19:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T20:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T21:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T22:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-06T23:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-07T00:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-07T01:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-07T02:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-07T03:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-07T04:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}
+{
+  "ts":"2025-10-07T05:04:01Z",
+  "shared_pool_writable":true,
+  "imports_inbox_present":true,
+  "personas":{"river":true,"mac":true,"sage":true,"amori":true},
+  "scripts":{"append_shared":true,"process_inbox":true},
+  "client_sync_expected":true
+}

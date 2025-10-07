@@ -1,0 +1,13 @@
+{
+    "id": "3ff9249d-e665-40cb-b532-3e981fc495af",
+    "url": "file:///app/collector/hotdir/code_style_conventions.md",
+    "title": "code_style_conventions.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:18 AM",
+    "wordCount": 125,
+    "pageContent": "# Code Style & Project Conventions\n\n## File Organization\n- **Clear directory structure**: Organized by function (warp/, logs/, backups/, etc.)\n- **Template-based configuration**: Use `.template` files with environment variable substitution\n- **Documentation**: README.md files in each major directory\n- **Security**: Never commit secrets - use environment variables\n\n## Shell Script Conventions (from setup-mcp.sh)\n- Executable permissions on shell scripts\n- Clear error handling and user feedback\n- Environment variable validation\n- Use of `envsubst` for template processing\n\n## Configuration Management\n- **Template Pattern**: Use `.template` files with placeholder variables\n- **Environment Variables**: Secure secret management via env vars\n- **Portability**: Cross-machine deployment considerations\n- **Version Control**: Git-friendly structure without sensitive data\n\n## Database Conventions\n- SQLite for local data storage\n- Migration system for schema changes\n- Organized in migrations/ directory\n\n## Documentation Standards\n- Comprehensive README files\n- Step-by-step setup instructions\n- Troubleshooting sections\n- Cross-reference related configurations",
+    "token_count_estimate": 222
+}

@@ -1,0 +1,44 @@
+Telegram Uploader Changes (May 20, 2025)
+
+Changes Made:
+1. Modified script to handle multiple authors (joins them with ' & ')
+2. Added as_copy=True to forward_messages function
+3. Created symlink in /usr/local/bin for system-wide access
+4. Updated code for proper chat ID handling
+
+Setup Steps After Warp Restart:
+1. Run 'telegramuploader' command
+2. Enter credentials:
+   - API ID: 24720388
+   - API Hash: 28b6e51ff2fd0845b9074728a7effd0e
+   - Phone: +18023103433
+   - Chat ID: -1002485184608
+   - Chat type: s (for supergroup)
+3. Choose upload mode 3 (Upload to Group + Forward to Saved)
+4. Enable 'completed' folder (y)
+5. Set path to: /Users/cerinawithasea/totag/upload
+6. Enable watch mode (y)
+
+List of Books to Restore:
+1. NIGHT KADAS STORM
+2. A T Grant - Feather.m4b
+3. Alice Hoffman - The Bookstore Family.m4b
+4. Allison Buccola - The Ascent.m4b
+5. Brian Phillipson - Project Genesis.m4b
+6. Chris Berdik - Mind Over Mind.m4b
+7. Dean Koontz - Going Home in the Dark.m4b
+8. Fred Lunzer - Sike.m4b
+9. Jesse Browner - Sing to Me.m4b
+10. Lisa Gray - Dead of Night.m4b
+11. Matt Shaw - Make a Wish.m4b
+12. Michael Connelly - Nightshade.m4b
+13. Michael Finney - Bloody Sepulchre.m4b
+14. Patricia C. Wrede - Sorcery & Cecelia.m4b
+15. Patricia C. Wrede - The Cecelia and Kate Novels.m4b
+16. Portraits of a Mother.m4b
+17. Rebecca King - How to Eat Well for Adults with ADHD.m4b
+18. Rich Cohen - Murder in the Dollhouse.m4b
+19. Robert Macarlane - Is a River Alive?.m4b
+20. Shalini Boland - The Birthday Party.m4b
+21. S. L. Price - The American Game.m4b
+22. Tori Eldridge - Kaua'i Storm.m4b

@@ -1,0 +1,13 @@
+{
+    "id": "3c00f505-25a2-4e19-a99f-9525d1baa68b",
+    "url": "file:///app/collector/hotdir/warp-mcp-setup-process.md",
+    "title": "warp-mcp-setup-process.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:22 AM",
+    "wordCount": 127,
+    "pageContent": "# Warp MCP Setup Process\n\n## Setup Steps Completed\n1. **Serena MCP**: Already configured and running in Warp MCP settings\n2. **Telegram MCP**: Added via setup script `./warp/setup-mcp.sh`\n\n## Configuration Location\n- Template: `/Users/cerinawithasea/config/warp/mcp.json.template`\n- Deployed to: `~/Library/Application Support/Warp/settings/mcp.json`\n\n## Important Notes\n- **Restart Required**: After running the setup script, Warp terminal must be quit and restarted for MCP configuration changes to take effect\n- Both Serena and Telegram MCP servers will be available after restart\n- Serena has `start_on_launch: true`, Telegram has `start_on_launch: false`\n\n## Manual QA Checklist Status\n- ✅ Setup script executed successfully\n- ⏳ Pending: Warp restart and verification of both servers\n- ⏳ Pending: Test MCP commands for both servers\n\n## Next Steps After Restart\n1. Verify both servers show \"Server ready\" in logs\n2. Test Telegram MCP tools (`get_chats`, `send_message`)\n3. Verify Serena tools still function\n4. Test auto-start functionality",
+    "token_count_estimate": 237
+}

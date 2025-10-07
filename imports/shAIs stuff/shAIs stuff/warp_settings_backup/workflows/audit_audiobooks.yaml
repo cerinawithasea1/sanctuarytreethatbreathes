@@ -1,0 +1,35 @@
+name: Audit Audiobooks
+description: |
+  Scans an audiobook directory recursively to collect metadata about audiobooks.
+  Creates a CSV file containing:
+  - Author (from directory name)
+  - Title
+  - Format (mp3/m4b)
+  - Duration
+  - Chapters (if any)
+  - File size
+  - Bitrate
+  
+  Also identifies audiobooks without chapters for potential conversion.
+
+command: |
+  /Users/cerinawithasea/scripts/audit_audiobooks.sh {{directory}}
+
+arguments:
+  - name: directory
+    description: Path to audiobooks directory to scan (e.g., /Volumes/ab)
+    default_value: "/Volumes/ab"
+
+examples:
+  - description: Scan main audiobook directory
+    command: /Users/cerinawithasea/scripts/audit_audiobooks.sh /Volumes/ab
+
+  - description: Scan specific author directory 
+    command: /Users/cerinawithasea/scripts/audit_audiobooks.sh "/Volumes/ab/Robert Jordan"
+
+output: |
+  Example CSV output format:
+  Author,Title,Filename,Format,Duration,Chapters,FileSize,Bitrate
+  "Robert Jordan","The Eye of the World","The Eye of the World.m4b","M4B","29:32:46","56 chapters","946.2 MB","128 kbps"
+  "Brandon Sanderson","Mistborn","Mistborn.mp3","MP3","24:56:04","","756.3 MB","192 kbps"
+

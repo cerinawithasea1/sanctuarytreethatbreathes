@@ -1,0 +1,13 @@
+{
+    "id": "072e7dad-028b-4133-8711-077a253c6a62",
+    "url": "file:///app/collector/hotdir/default-embedder.png",
+    "title": "default-embedder.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:33:42 PM",
+    "wordCount": 97,
+    "pageContent": "CQ Anything LLM\nEmbedding Preference\nINSTANCE SETTINGS When using an LLM that does not natively support an embedding engine - you may need to additionally specify credentials to for emi]\nEmbedding is the process of turning text into vectors. These credentials are required to turn your files and prompts into a format whic\n£ APIKeys\n= Workspace Chat Embedding Provider\n®© Appearance Ca AnythingLLM Embedder PS\nUse the built-in embedding provider for AnythingLLM. Zero setup! 7\n[2] LLM Preference\nThere is no set up required when using AnythingLLM's native embedding engine.\nTranscription Model\nEmbedder Preferences\n2 \" i\n| = Text Splitter & Chunking\n© Vector Database\n&) EventlLogs\n& Privacy & Data\n",
+    "token_count_estimate": 163
+}

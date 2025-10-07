@@ -1,0 +1,72 @@
+name: XLD Audiobook Converter
+description: Common XLD commands for audiobook conversion
+commands:
+  - name: Convert Single File to M4B
+    description: Convert a single audio file to M4B format using standard audiobook settings
+    command: xld -f aac --profile "Audiobook" -o "{{output_file}}.m4b" "{{input_file}}"
+    args:
+      - name: input_file
+        description: Input audio file (mp3, flac, etc.)
+        type: file
+      - name: output_file
+        description: Output filename (without .m4b extension)
+        type: text
+    tags:
+      - audiobook
+      - conversion
+
+  - name: Batch Convert to M4B
+    description: Convert multiple audio files to M4B format
+    command: |
+      for f in {{input_pattern}}; do
+        xld -f aac --profile "Audiobook" -o "${f%.*}.m4b" "$f"
+      done
+    args:
+      - name: input_pattern
+        description: Input file pattern (e.g., "*.mp3" or "*.flac")
+        type: text
+    tags:
+      - audiobook
+      - batch
+
+  - name: Convert with Custom Bitrate
+    description: Convert audio file to M4B with specific bitrate
+    command: xld -f aac --bitrate {{bitrate}} -o "{{output_file}}.m4b" "{{input_file}}"
+    args:
+      - name: input_file
+        description: Input audio file
+        type: file
+      - name: output_file
+        description: Output filename (without .m4b extension)
+        type: text
+      - name: bitrate
+        description: Bitrate in kbps (64-128 recommended for audiobooks)
+        type: text
+        default: "64"
+    tags:
+      - audiobook
+      - quality
+
+  - name: Convert with Chapters
+    description: Convert audio file to M4B using chapter markers from cue sheet
+    command: xld -f aac --profile "Audiobook" --cue "{{cue_file}}" -o "{{output_file}}.m4b" "{{input_file}}"
+    args:
+      - name: input_file
+        description: Input audio file
+        type: file
+      - name: cue_file
+        description: Cue sheet file with chapter markers
+        type: file
+      - name: output_file
+        description: Output filename (without .m4b extension)
+        type: text
+    tags:
+      - audiobook
+      - chapters
+
+author: AI Assistant
+tags:
+  - xld
+  - audiobook
+  - conversion
+

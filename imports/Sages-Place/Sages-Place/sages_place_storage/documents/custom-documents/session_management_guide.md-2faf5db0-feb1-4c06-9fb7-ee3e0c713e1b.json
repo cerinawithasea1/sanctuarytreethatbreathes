@@ -1,0 +1,13 @@
+{
+    "id": "2faf5db0-feb1-4c06-9fb7-ee3e0c713e1b",
+    "url": "file:///app/collector/hotdir/session_management_guide.md",
+    "title": "session_management_guide.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:21 AM",
+    "wordCount": 155,
+    "pageContent": "# Session Management & Token Optimization Guide\n\n## When to Use Interactive Mode (Low Token Usage)\n- Quick commands and file operations\n- Simple questions and status checks\n- Brief updates and quick tests\n\n## When to Use Full Sessions (Moderate Token Usage)\n- Coding projects and debugging\n- Learning new concepts\n- Step-by-step complex tasks\n\n## When to Start Fresh Sessions\n- Responses seem repetitive or fuzzy\n- Getting unexpected errors\n- Switching to completely new topics\n- After completing major tasks\n\n## Token-Saving Best Practices\n1. **Save Important Information**: Create workflow files, document decisions, maintain memory files\n2. **Break Up Big Tasks**: Split complex projects, use focused sessions, save progress\n3. **Plan Sessions**: Group similar tasks, save deep discussions for fresh sessions\n4. **High-Value Token Use**: Learning complex concepts, solving tricky problems, meaningful discussions\n5. **Avoid Low-Value Use**: Repeating questions, unfocused conversations, mixing too many topics\n\n## Session Structure\n- **Start**: Clear goal, relevant files ready, context prepared\n- **During**: Stay focused, save outputs, document decisions\n- **End**: Save information, document next steps, plan next session",
+    "token_count_estimate": 251
+}

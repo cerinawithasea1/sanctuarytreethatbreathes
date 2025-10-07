@@ -1,0 +1,13 @@
+{
+    "id": "f70e6b1f-d389-4ced-8a0a-49f4c5f4a3a2",
+    "url": "file:///app/collector/hotdir/write-file.png",
+    "title": "write-file.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:37:16 PM",
+    "wordCount": 20,
+    "pageContent": "EB Write File AX\nWrite File\nWrite a file to the local file system. Text output only.\nFlsers/Y nie eyDocumnents frie od =\nContent\n${contentToSave}\n4\n",
+    "token_count_estimate": 43
+}

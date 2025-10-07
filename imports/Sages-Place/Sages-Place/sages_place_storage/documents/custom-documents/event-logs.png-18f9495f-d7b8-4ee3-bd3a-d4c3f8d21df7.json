@@ -1,0 +1,13 @@
+{
+    "id": "18f9495f-d7b8-4ee3-bd3a-d4c3f8d21df7",
+    "url": "file:///app/collector/hotdir/event-logs.png",
+    "title": "event-logs.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:36:17 PM",
+    "wordCount": 40,
+    "pageContent": "CQ Anything LLM\nEventLogs\n\nINSTANCE SETTINGS View all actions and events happening on this instance for monitoring\n1 Workspace Chat\n\nEVENT TYPE USER OCCURRED AT\n© Appearance\n\nevent_logs_cleared unknown user 2024-04-24T18:59:54.102Z\n£ APIKeys\n[=] LLM Preference\nTranscription Model\n[3 Embedder Preferences\n© Vector Database\n2] Embedded Chat\n& Security\n[-] EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 103
+}

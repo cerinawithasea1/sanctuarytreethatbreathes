@@ -1,0 +1,13 @@
+{
+    "id": "10426fad-012e-4dde-99f3-0486d6607b11",
+    "url": "file:///app/collector/hotdir/dynamic-ui.png",
+    "title": "dynamic-ui.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:31:02 PM",
+    "wordCount": 122,
+    "pageContent": "200 oa AnythingLLM | Your personal  X ar v\n« > C ® localhost:3000/settings/agents ve 5} [=] -\nCA Anything LLM\nINSTANCE SETTINGS Agent Skills\n33 AlProviders v\nRAG & long-term memory Default > .\nny £% Open meteo weather api (\nVector Database View & summarize documents Default = > Gets the weather for a given location latitude and longitude using the open-meteo API\nby @tcarambat\nEDEeduSs Scrape websites Default >\nText Splitter & Chunking OPEN_METEO_API_KEY\npolcelEinsEcl Generate & save files to browser off > selon\nTranscription The API key for the open-meteo API\nGenerate charts Off >\n@ Admin v\nWeb Search Off >\nWorkspace Chats\nAgent Skills SQL Connector Off >\n& CEE £% Custom Skills\nF9 Tools v\nOpen meteo weather api On >\nChat Embed History\nChat Embed\nEvent Logs\nDeveloper API\nBrowser Extension\n© Security\nA Experimental Features\nContact Support\n¥ M 8 ©\n",
+    "token_count_estimate": 222
+}

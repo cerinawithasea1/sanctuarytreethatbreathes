@@ -1,0 +1,13 @@
+{
+    "id": "951a57ba-39fa-4875-a586-da45ec42f67f",
+    "url": "file:///app/collector/hotdir/config_project_overview.md",
+    "title": "config_project_overview.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:18 AM",
+    "wordCount": 150,
+    "pageContent": "# Config Project Purpose & Structure\n\n## Project Purpose\nThis is Cerina's personal configuration management system located at `/Users/cerinawithasea/config`. It serves as a centralized location for:\n- Warp terminal MCP (Model Context Protocol) integration with Serena\n- System configuration files and templates\n- Database and migration management\n- Backup and logging systems\n\n## Directory Structure\n- **warp/**: Warp MCP configuration files and setup scripts\n  - `README.md`: Setup and usage instructions\n  - `mcp.json.template`: Template for Warp MCP settings\n  - `setup-mcp.sh`: Deployment script for MCP configuration\n- **migrations/**: Database migration files\n- **cache/**: Cached data and temporary files\n- **streams/**: Stream configuration or data\n- **logs/**: Log files from various systems\n- **backups/**: System and configuration backups\n- **.serena/**: Serena project configuration (auto-generated)\n- **absdatabase.sqlite**: SQLite database file\n\n## Key Features\n- **MCP Integration**: Seamless Serena integration with Warp terminal\n- **Template System**: Environment variable substitution for secure config management\n- **Version Control Ready**: Designed to be git-managed without exposing secrets\n- **Cross-Machine Deployment**: Portable setup across different machines",
+    "token_count_estimate": 264
+}

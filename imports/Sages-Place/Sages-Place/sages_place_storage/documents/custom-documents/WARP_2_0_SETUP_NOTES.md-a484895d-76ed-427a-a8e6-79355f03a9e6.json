@@ -1,0 +1,13 @@
+{
+    "id": "a484895d-76ed-427a-a8e6-79355f03a9e6",
+    "url": "file:///app/collector/hotdir/WARP_2_0_SETUP_NOTES.md",
+    "title": "WARP_2_0_SETUP_NOTES.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:27:23 AM",
+    "wordCount": 125,
+    "pageContent": "# Warp 2.0 MCP Setup Notes\n\n## Issue\nAfter updating to Warp 2.0, the MCP Serena server that was previously auto-starting with Warp is no longer starting automatically.\n\n## Previous Working Setup\n- MCP Serena server was configured to start automatically with Warp\n- Located in: /Users/cerinawithasea/serena\n- Start command: `source .venv/bin/activate && python scripts/mcp_server.py`\n- Was working well for memory/context management\n\n## Current Status (June 25, 2025)\n- Warp 2.0 has new multi-agent and project features\n- Auto-startup integration broke with the update\n- Currently starting manually: process ID 4666\n\n## TODO\n- [ ] Research Warp 2.0 MCP integration documentation\n- [ ] Reconfigure auto-startup for new Warp version\n- [ ] Test that memories and context work properly with new setup\n- [ ] Document new configuration for future reference\n\n## Manual Start Command (temporary)\n```bash\ncd /Users/cerinawithasea/serena\nsource .venv/bin/activate\npython scripts/mcp_server.py &\n```\n",
+    "token_count_estimate": 242
+}

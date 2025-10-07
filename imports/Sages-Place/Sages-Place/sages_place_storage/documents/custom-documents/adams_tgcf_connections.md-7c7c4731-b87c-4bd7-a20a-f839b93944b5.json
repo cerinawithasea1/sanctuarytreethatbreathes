@@ -1,0 +1,13 @@
+{
+    "id": "7c7c4731-b87c-4bd7-a20a-f839b93944b5",
+    "url": "file:///app/collector/hotdir/adams_tgcf_connections.md",
+    "title": "adams_tgcf_connections.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:17 AM",
+    "wordCount": 74,
+    "pageContent": "# Adam's TGCF Channel Connections\n\n## Connection Mappings\n\n### Connection 1\n- **Source**: -1001450204492\n- **Destination**: -1002211043729\n\n### Connection 2\n- **Source**: -1001226488703\n- **Destination**: -1001474741072\n\n## Configuration Notes\n- These are Telegram channel/group IDs (negative numbers indicate supergroups/channels)\n- Need to be configured in TGCF web interface at http://localhost:8503\n- Messages from source channels will be forwarded to destination channels\n\n## Setup Process\n1. Access web interface at http://localhost:8503\n2. Set up session using saved session string if needed\n3. Configure these two forwarding rules\n4. Test forwarding functionality",
+    "token_count_estimate": 159
+}

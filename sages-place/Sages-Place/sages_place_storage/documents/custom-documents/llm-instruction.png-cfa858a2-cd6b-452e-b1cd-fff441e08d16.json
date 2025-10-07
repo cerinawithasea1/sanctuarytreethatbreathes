@@ -1,0 +1,13 @@
+{
+    "id": "cfa858a2-cd6b-452e-b1cd-fff441e08d16",
+    "url": "file:///app/collector/hotdir/llm-instruction.png",
+    "title": "llm-instruction.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:43:07 PM",
+    "wordCount": 23,
+    "pageContent": "@& LLMInstruction A X\nInput Variable\npageContentFromSite v\nInstruction\nExtract all links from this content that would be relevant to this topic:\n${topicOfinterest}\n4\nResult Variable\nSelect or create variable v\n",
+    "token_count_estimate": 49
+}

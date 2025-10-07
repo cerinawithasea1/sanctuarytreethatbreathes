@@ -1,0 +1,13 @@
+{
+    "id": "751846b8-094a-4ee8-8331-93143a88978f",
+    "url": "file:///app/collector/hotdir/add-variable.png",
+    "title": "add-variable.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:37:57 PM",
+    "wordCount": 26,
+    "pageContent": "Add New Variable X\nKey\n\ne.g.,company_name\nKey must be unique and will be used in prompts as {key}. Only letters, numbers and underscores are allowed.\nValue\n\ne.g.,Acme Corp\nDescription\n\nOptional description\n\nCancel Create variable\n",
+    "token_count_estimate": 54
+}

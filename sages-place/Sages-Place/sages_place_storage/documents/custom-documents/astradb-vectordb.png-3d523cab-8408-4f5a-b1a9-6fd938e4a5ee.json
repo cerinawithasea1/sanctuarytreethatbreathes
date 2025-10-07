@@ -1,0 +1,13 @@
+{
+    "id": "3d523cab-8408-4f5a-b1a9-6fd938e4a5ee",
+    "url": "file:///app/collector/hotdir/astradb-vectordb.png",
+    "title": "astradb-vectordb.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:45:39 PM",
+    "wordCount": 55,
+    "pageContent": "CA Anything LLM\nVector Database\nINSTANCE SETTINGS These are the credentials and settings for how your AnythingLLM instance will function. It's important these keys are current\nLO APIKeys\nVector Database Provider\n[Z] Workspace Chat\nEe AstraDB A\n© Appearance Vector Search for Real-world GenAl. N\n[Z] LLM Preference Astra DB Endpoint Astra DB Application Token\nTranscription Model\nEmbedder Preferences\n® Vector Database\n©) EventlLogs\n& Privacy & Data\n",
+    "token_count_estimate": 104
+}

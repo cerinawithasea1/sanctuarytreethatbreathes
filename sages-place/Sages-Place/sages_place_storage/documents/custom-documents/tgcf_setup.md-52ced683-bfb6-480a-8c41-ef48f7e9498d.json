@@ -1,0 +1,13 @@
+{
+    "id": "52ced683-bfb6-480a-8c41-ef48f7e9498d",
+    "url": "file:///app/collector/hotdir/tgcf_setup.md",
+    "title": "tgcf_setup.md",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 6:37:22 AM",
+    "wordCount": 102,
+    "pageContent": "# TGCF (Telegram Chat Forwarder) Setup\n\n## Configuration\n- **Location**: `/Users/cerinawithasea/services/tgcf/`\n- **Web Interface**: `https://tgcf.tgcf.orb.local/Connections` (via OrbStack)\n- **Container**: Docker container named `tgcf` running on OrbStack\n- **Persistence**: Fixed session persistence issue by mounting:\n  - `./data/sessions:/root/.local/share/pyrogram` (Telegram session files)\n  - `./data/config:/app/.tgcf` (TGCF config and state)\n  - `./data:/app/data` (runtime data)\n\n## Key Files\n- `docker-compose.yml`: Main container configuration\n- `tgcf.config.yml`: Static config file with API credentials\n- `data/`: Persistent data directory for sessions and runtime config\n\n## Issue Resolution\n- **Problem**: Configuration reset after reboot due to missing volume mounts for session files\n- **Solution**: Added proper volume mounts for Telegram session persistence\n- **Result**: Configuration now persists across reboots and container restarts",
+    "token_count_estimate": 226
+}

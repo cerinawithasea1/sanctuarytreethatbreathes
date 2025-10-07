@@ -1,0 +1,13 @@
+{
+    "id": "1625adc8-97b3-4329-94bc-17ef4ae92df1",
+    "url": "file:///app/collector/hotdir/hugging-face-llm.png",
+    "title": "hugging-face-llm.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:43:23 PM",
+    "wordCount": 61,
+    "pageContent": "CA Anything LLM\nLLM Preference\nINSTANCE SETTINGS These are the credentials and settings for your preferred LLM chat & embedding provider. Its important these keys are current and correct]\nLO APIKeys\nLLM Provider\n[Z] Workspace Chat\nHuggingFace A\n@ Appearance Access 150,000+ open-source LLMs and the world's Al community 7\nBE LLMPreference HuggingFace Inference Endpoint HuggingFace Access Token Model Token Limit\nTranscription Model\n[® Embedder Preferences\n© VectorDatabase\n EventLogs\n& Privacy & Data\n",
+    "token_count_estimate": 117
+}

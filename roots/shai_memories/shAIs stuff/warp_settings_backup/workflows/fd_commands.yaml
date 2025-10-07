@@ -1,0 +1,41 @@
+name: Common fd Commands
+description: Common file finding operations using fd command
+tags:
+  - fd
+  - find
+  - search
+command: |
+  # Basic File Finding Operations
+  fd pattern                      # Find files/directories matching pattern
+  fd -e pdf                       # Find files with specific extension
+  fd -E '*.tmp' pattern          # Find files excluding .tmp files
+  fd -H pattern                   # Include hidden files in search
+
+  # Size Filters
+  fd -S +10M                      # Find files larger than 10MB
+  fd -S -1M                       # Find files smaller than 1MB
+  fd -S +1G -e mp4               # Find MP4 files over 1GB
+
+  # Directory Operations
+  fd -t d                         # List only directories
+  fd -t f                         # List only files
+  fd -d 2 pattern                # Search only 2 levels deep
+  fd . /path/to/search           # Search in specific directory
+
+  # Pattern Exclusions
+  fd --exclude node_modules       # Exclude node_modules directory
+  fd --exclude-dir backup         # Exclude backup directories
+  fd -g '*.{jpg,png}'            # Find using glob pattern
+  fd -I pattern                   # Ignore .gitignore patterns
+
+  # Time-based Search
+  fd -c today                     # Files changed today
+  fd --changed-within 24h         # Files changed in last 24 hours
+  fd --changed-before '2 weeks'   # Files older than 2 weeks
+
+  # Advanced Operations
+  fd -x echo {}                   # Execute command on each result
+  fd -0 -t f | xargs -0          # Null-separated output for xargs
+  fd -e txt -j 4                  # Parallel search with 4 threads
+  fd . -t f --strip-cwd          # Strip current dir from output
+

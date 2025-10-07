@@ -1,0 +1,56 @@
+---
+accent: "#0078D7"  # Classic Windows blue
+background: "#0C0C0C"  # Dark background similar to Windows Terminal
+foreground: "#CCCCCC"  # Light gray text
+details: darker  # For a more modern look
+terminal_colors:
+  normal:
+    black: "#0C0C0C"    # Windows Terminal default black
+    red: "#E74856"      # Windows Terminal default red
+    green: "#16C60C"    # Windows Terminal default green
+    yellow: "#F9F1A5"   # Windows Terminal default yellow
+    blue: "#3B78FF"     # Windows Terminal default blue
+    magenta: "#B4009E"  # Windows Terminal default magenta
+    cyan: "#61D6D6"     # Windows Terminal default cyan
+    white: "#CCCCCC"    # Windows Terminal default white
+  bright:
+    black: "#767676"    # Windows Terminal bright black
+    red: "#E74856"      # Windows Terminal bright red
+    green: "#16C60C"    # Windows Terminal bright green
+    yellow: "#F9F1A5"   # Windows Terminal bright yellow
+    blue: "#3B78FF"     # Windows Terminal bright blue
+    magenta: "#B4009E"  # Windows Terminal bright magenta
+    cyan: "#61D6D6"     # Windows Terminal bright cyan
+    white: "#F2F2F2"    # Windows Terminal bright white
+
+# Theme metadata
+name: "Windows 11"
+author: "Created with Warp AI"
+description: "A modern Windows 11 inspired theme combining classic Windows blue with contemporary design elements"
+
+# Additional UI elements
+terminal_background: "#0C0C0C"
+terminal_foreground: "#CCCCCC"
+selection_background: "#264F78"  # Windows selection blue
+selection_foreground: "#FFFFFF"  # White text for selections
+cursor_color: "#FFFFFF"          # White cursor
+cursor_text: "#000000"           # Black text under cursor
+
+# Tab and window elements
+tab_bar:
+  background: "#2B2B2B"         # Darker gray for tab bar like Windows taskbar
+  active_tab:
+    background: "#0078D7"       # Windows blue for active tab
+    foreground: "#FFFFFF"       # White text for active tab
+  inactive_tab:
+    background: "#1E1E1E"       # Dark gray for inactive tabs
+    foreground: "#CCCCCC"       # Light gray text for inactive tabs
+
+# Command palette inspired by Windows search
+command_palette:
+  background: "#2B2B2B"
+  foreground: "#CCCCCC"
+  border: "#0078D7"             # Windows blue border
+  selected_background: "#3B3B3B"
+  selected_foreground: "#FFFFFF"
+

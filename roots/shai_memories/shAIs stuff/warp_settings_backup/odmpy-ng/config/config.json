@@ -1,0 +1,17 @@
+{
+    "download-dir": "/Users/cerinawithasea/Downloads/audiobooks",
+    "libraries": [
+        {
+            "name": "PPLD",
+            "url": "https://ppld.overdrive.com",
+            "card_number": "300112703",
+            "pin": "0317"
+        },
+        {
+            "name": "KCLS",
+            "url": "https://kcls.overdrive.com",
+            "card_number": "9340090691",
+            "pin": "0084"
+        }
+    ]
+}

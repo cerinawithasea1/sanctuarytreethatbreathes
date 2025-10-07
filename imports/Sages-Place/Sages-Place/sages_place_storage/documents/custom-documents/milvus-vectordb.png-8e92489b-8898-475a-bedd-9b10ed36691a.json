@@ -1,0 +1,13 @@
+{
+    "id": "8e92489b-8898-475a-bedd-9b10ed36691a",
+    "url": "file:///app/collector/hotdir/milvus-vectordb.png",
+    "title": "milvus-vectordb.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:40:28 PM",
+    "wordCount": 56,
+    "pageContent": "CA Anything LLM\nVector Database\nINSTANCE SETTINGS These are the credentials and settings for how your AnythingLLM instance will function. It's important these keys are current and correct\nLO APIKeys\nVector Database Provider\n5) Workspace Chat\nMilvus PS\n© Appearance Open-source, highly scalable, and blazing fast. 7\n[Z] LLM Preference Milvus DB Address Milvus Username Milvus Password\nTranscription Model\nEmbedder Preferences\n® VectorDatabase\n£) Eventlogs\n& Privacy & Data\n",
+    "token_count_estimate": 110
+}

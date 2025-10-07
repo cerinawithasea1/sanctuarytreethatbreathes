@@ -1,0 +1,13 @@
+{
+    "id": "92bbd03a-37c2-4357-acb9-ea7d412c5909",
+    "url": "file:///app/collector/hotdir/lmstudio-embedder.png",
+    "title": "lmstudio-embedder.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:43:44 PM",
+    "wordCount": 105,
+    "pageContent": "CA Anything LLM\nEmbedding Preference\nINSTANCE SETTINGS When using an LLM that does not natively support an embedding engine - you may need to additionally specify credentials to forembeddil\nEmbedding is the process of turning text into vectors. These credentials are required to turn your files and prompts into a format which Any]\n£ APIKeys\n=) Workspace Chat Embedding Provider\n© Appearance LM Studio A\nDiscover, download, and run thousands of cutting edge LLMs in a few clicks. 7\n[Z] LLM Preference\nLMStudio Base URL Chat Model Selection Max embedding chunk length\nTranscription Model )\nhttp://localhost:1234/v1 -- loading available models -- v 8192\nEmbedder Preferences\nips n a\n| = Text Splitter & Chunking\n© VectorDatabase\n#) EventlLogs\n& Privacy & Data\n",
+    "token_count_estimate": 178
+}

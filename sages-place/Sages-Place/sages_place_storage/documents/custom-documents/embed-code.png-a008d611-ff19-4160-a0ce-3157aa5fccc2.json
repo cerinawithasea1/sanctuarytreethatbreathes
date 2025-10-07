@@ -1,0 +1,13 @@
+{
+    "id": "a008d611-ff19-4160-a0ce-3157aa5fccc2",
+    "url": "file:///app/collector/hotdir/embed-code.png",
+    "title": "embed-code.png",
+    "docAuthor": "Unknown",
+    "description": "Unknown",
+    "docSource": "a text file uploaded by the user.",
+    "chunkSource": "",
+    "published": "7/4/2025, 5:34:39 PM",
+    "wordCount": 32,
+    "pageContent": "Copy your embed code X\n\nHTML Script Tag Embed Code\n\nHave your workspace chat embed function like a help desk chat bottom in the corner of your website.\n\nView all style and configuration options >\n\no\n<script\ndata-embed-id=\"5cf38e62-f6f4-4e3d-99f8-344a730abe34\"\ndata-base-api-url=\"http://localhost:3001/api/embed\"\nsrc=\"http://localhost:3000/embed/anythingllm-chat-widget.min.js\">\n</script>\nClose\n",
+    "token_count_estimate": 109
+}
