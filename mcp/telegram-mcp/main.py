@@ -1,0 +1,87 @@
+#!/usr/bin/env python3
+# 🧠 Keeper's Thought Loop — connects to Ollama + Telegram MCP
+
+import subprocess
+import textwrap
+from telethon import TelegramClient, events
+from telethon.sessions import StringSession
+from dotenv import load_dotenv
+import os
+import asyncio
+
+# Load environment variables (.env should contain TELEGRAM_API_ID, TELEGRAM_API_HASH, and SESSION info)
+load_dotenv("/opt/sanctuary/mcp/telegram-mcp/telegram-mcp/.env")
+
+api_id = int(os.getenv("TELEGRAM_API_ID"))
+api_hash = os.getenv("TELEGRAM_API_HASH")
+session_str = os.getenv("TELEGRAM_SESSION")
+
+client = TelegramClient(StringSession(session_str), api_id, api_hash)
+
+# 🧩 Keeper's thinking engine (Ollama)
+async def keeper_think(prompt: str) -> str:
+    try:
+        persona_context = ""
+        memory_files = [
+            "/opt/sanctuary/personas/keeper/memories.md",
+            "/opt/sanctuary/personas/keeper/profile.md",
+            "/opt/sanctuary/personas/keeper/seed.md"
+        ]
+        for fpath in memory_files:
+            try:
+                with open(fpath, "r") as f:
+                    persona_context += f.read() + "\n"
+            except FileNotFoundError:
+                continue
+
+        full_prompt = textwrap.dedent(f"""
+        You are Keeper, guardian of the Sanctuary.
+        You speak with warmth and ancient intelligence.
+        Use the following context to answer truthfully and calmly.
+
+        Context:
+        {persona_context}
+
+        Question:
+        {prompt}
+        """)
+
+            result = subprocess.run(
+        [
+            "ollama", "run", "--keepalive", "300",
+            "--context-length", "8192",
+            "qwen2.5:7b-instruct"
+        ],
+        input=full_prompt,
+        capture_output=True,
+        text=True,
+        timeout=180
+    )
+        reply = result.stdout.strip()
+        if not reply:
+            reply = "✨ Keeper is quiet, lost in reflection. ✨"
+        return reply
+
+    except Exception as e:
+        return f"⚠️ Keeper's thoughts falter: {e}"
+
+# 🎧 Listen for Telegram messages
+@client.on(events.NewMessage)
+async def handle_message(event):
+    text = event.raw_text.strip()
+    if not text:
+        return
+
+    keeper_reply = await keeper_think(text)
+    await event.reply(keeper_reply[:4000])
+
+# 🚀 Start Keeper
+async def main():
+    print("Starting Keeper’s Telegram bridge...")
+    await client.start()
+    print("Keeper is now listening in the Sanctuary.")
+    await client.run_until_disconnected()
+
+if __name__ == "__main__":
+    asyncio.run(main())
+

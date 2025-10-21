@@ -23,3 +23,5 @@ STATUS+=("🪢 client sync: expected via launchctl (see Mac logs)")
   printf -- "- [%s] %s\n" "$TS" "Lumi status:"
   for s in "${STATUS[@]}"; do echo "  • $s"; done
 } >> "$log"
+# test change
+# keeper log test

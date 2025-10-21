@@ -1,0 +1,3 @@
+#!/bin/bash
+# Talk to Keeper with file access
+python3 /opt/sanctuary/mcp/keeper_mcp_shell.py

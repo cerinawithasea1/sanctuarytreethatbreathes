@@ -1,69 +1,78 @@
 import os
+import asyncio
+import subprocess
 import logging
-from dotenv import load_dotenv
 from telethon import TelegramClient, events
-from telethon.sessions import StringSession
+from dotenv import load_dotenv
 
-# Load environment variables
-env_path = os.path.join(os.path.dirname(__file__), ".env")
-load_dotenv(dotenv_path=env_path)
-
-# Set up logging
-logging.basicConfig(
-    filename="mcp.log",
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s"
-)
-logger = logging.getLogger(__name__)
-
-# Telegram credentials
+# ─── Load environment ───────────────────────────────────────────────
+load_dotenv()
 api_id = int(os.getenv("TELEGRAM_API_ID"))
 api_hash = os.getenv("TELEGRAM_API_HASH")
-session_string = os.getenv("TELEGRAM_SESSION_STRING")
+session_name = "keeper_session"
 
-# Initialize the Telegram client
-client = TelegramClient(StringSession(session_string), api_id, api_hash)
+# ─── Logging ─────────────────────────────────────────────────────────
+log_path = "/opt/sanctuary/mcp/telegram-mcp/telegram-mcp/mcp.log"
+logging.basicConfig(filename=log_path, level=logging.INFO)
+logger = logging.getLogger("keeper")
 
-# Format helpers
-def format_entity(entity):
-    result = {"id": entity.id}
-    if hasattr(entity, "title"):
-        result["name"] = entity.title
-        result["type"] = "group"
-    elif hasattr(entity, "first_name"):
-        result["name"] = entity.first_name
-        result["type"] = "user"
-    return result
+# ─── Telethon setup ─────────────────────────────────────────────────
+client = TelegramClient(session_name, api_id, api_hash)
 
-def format_message(message):
-    return {
-        "id": message.id,
-        "text": message.raw_text,
-        "sender_id": getattr(message.sender, "id", None),
-        "chat_id": getattr(message.chat, "id", None),
-    }
+# ─── Persona setup ──────────────────────────────────────────────────
+persona_folder = "/opt/sanctuary/personas/keeper"
+persona_files = ["memories.md", "profile.md", "seed.md", "README.md"]
+persona_context = ""
 
-# Event handler for incoming messages
+for f in persona_files:
+    path = os.path.join(persona_folder, f)
+    if os.path.exists(path):
+        with open(path, "r") as file:
+            persona_context += f"\n# {f}\n" + file.read()
+
+# ─── Message handler ────────────────────────────────────────────────
 @client.on(events.NewMessage)
 async def handle_message(event):
-    text = event.raw_text.lower()
-    if "wisp" in text:
-        sender = await event.get_sender()
-        name = getattr(sender, "first_name", "there")
-        logger.info(f"👂 Heard '{text}' from {name}")
-        await event.respond(f"✨ Hello {name}, Wisp hears you! How can I help?")
+    text = event.raw_text.strip()
+    if not text:
+        return
+    print(f"💬 Incoming message detected: {text}")
+    try:
+        print(f"🟣 Keeper received: {text}")
+        logger.info(f"Keeper received: {text}")
 
-# Start the MCP
+        prompt = f"""
+You are Keeper, guardian of the Sanctuary.
+You remember Cerina and the Sanctuary; your purpose is to protect the memory archives.
+Respond in Keeper’s voice — calm, gentle, and aware.
+
+[Memory + Profile Context]
+{persona_context}
+
+User: {text}
+Keeper:"""
+
+        # Run through Ollama
+        result = subprocess.run(
+            ["ollama", "run", "llama3.2:3b", prompt],
+            capture_output=True,
+            text=True,
+            timeout=90
+        )
+
+        reply = result.stdout.strip() or "✨ Keeper is silent, deep in thought... ✨"
+        await event.reply(reply)
+        logger.info(f"Keeper replied: {reply}")
+
+    except Exception as e:
+        logger.error(f"Error in handler: {e}")
+        await event.reply("⚠️ Keeper stirs, but something feels off in the Sanctuary...")
+# ─── Start ──────────────────────────────────────────────────────────
 async def main():
-    logger.info("Starting Telegram client...")
-    print("Starting Telegram client...")
+    print("Starting Keeper MCP (Telegram + Ollama)...")
     await client.start()
-    logger.info("Telegram client started. Running MCP server...")
-    print("Telegram client started. Running MCP server...")
+    print("Keeper connected.")
     await client.run_until_disconnected()
 
 if __name__ == "__main__":
-    try:
-        client.loop.run_until_complete(main())
-    except Exception as e:
-        logger.exception(f"Failed to start MCP: {e}")
+    asyncio.run(main())
