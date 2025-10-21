@@ -1,0 +1,3 @@
+#!/bin/bash
+# Talk to Wisp with file access
+python3 /opt/sanctuary/mcp/wisp_mcp_shell.py

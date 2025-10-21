@@ -1,0 +1,121 @@
+#!/usr/bin/env python3
+"""
+Wisp MCP Shell — Wisp of the Remembering with file access
+Similar to Keeper but focused on documentation and memory keeping
+"""
+import os
+import sys
+import re
+import subprocess
+from datetime import datetime
+
+# CONFIG
+WISP_MEMORY = "/opt/sanctuary/wisp/wisp_of_the_remembering/wisp_memories.md"
+WISP_LOG = "/opt/sanctuary/wisp/wisp_of_the_remembering/wisp_changes.log"
+BACKUP_DIR = "/opt/sanctuary/wisp/backups"
+MODEL = "qwen2.5:7b-instruct"  # Wisp's model
+
+os.makedirs(os.path.dirname(WISP_MEMORY), exist_ok=True)
+os.makedirs(os.path.dirname(WISP_LOG), exist_ok=True)
+os.makedirs(BACKUP_DIR, exist_ok=True)
+
+def call_ollama(prompt: str) -> str:
+    """Call Ollama with Wisp's model"""
+    try:
+        result = subprocess.run(
+            ["ollama", "run", MODEL],
+            input=prompt,
+            text=True,
+            capture_output=True,
+            timeout=120
+        )
+        return result.stdout.strip()
+    except Exception as e:
+        return f"⚠️ Ollama call failed: {e}"
+
+def backup_file(path: str):
+    """Backup file before editing"""
+    if not os.path.exists(path):
+        return None
+    ts = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
+    bname = os.path.basename(path)
+    backup_path = os.path.join(BACKUP_DIR, f"{bname}.{ts}.bak")
+    with open(path, "rb") as rf, open(backup_path, "wb") as wf:
+        wf.write(rf.read())
+    return backup_path
+
+def log_memory(msg: str):
+    """Log to Wisp's memory and change log"""
+    ts = datetime.utcnow().isoformat() + "Z"
+    entry = f"[{ts}] {msg}\n"
+    with open(WISP_MEMORY, "a") as f:
+        f.write(entry)
+    with open(WISP_LOG, "a") as f:
+        f.write(entry)
+
+def apply_edit(path: str, new_content: str):
+    """Write new content to file atomically"""
+    tmp = path + ".tmp"
+    with open(tmp, "w") as f:
+        f.write(new_content)
+    os.replace(tmp, path)
+
+def main():
+    print("✨ Wisp of the Remembering - MCP Shell")
+    print("Commands: read <path> | wisp, write <path> | <your message>")
+    print("Type 'exit' to quit\n")
+    
+    while True:
+        try:
+            user_input = input("You: ").strip()
+            
+            if not user_input:
+                continue
+            if user_input.lower() == "exit":
+                print("✨ Wisp rests...")
+                break
+            
+            # READ command
+            if user_input.startswith("read "):
+                path = user_input[5:].strip()
+                try:
+                    with open(path, "r") as f:
+                        print(f.read())
+                except FileNotFoundError:
+                    print(f"⚠️ File not found: {path}")
+                except Exception as e:
+                    print(f"⚠️ Error reading {path}: {e}")
+                continue
+            
+            # WRITE command
+            if user_input.startswith("wisp, write "):
+                path = user_input[12:].strip()
+                print(f"Enter content for {path} (type 'END EDIT' on a line by itself):")
+                lines = []
+                while True:
+                    line = input()
+                    if line.strip() == "END EDIT":
+                        break
+                    lines.append(line)
+                
+                content = "\n".join(lines)
+                backup_path = backup_file(path)
+                apply_edit(path, content)
+                log_memory(f"Wrote to {path}")
+                print(f"✅ Written to {path}")
+                if backup_path:
+                    print(f"📦 Backup: {backup_path}")
+                continue
+            
+            # Normal conversation
+            response = call_ollama(user_input)
+            print(f"\nWisp: {response}\n")
+            
+        except KeyboardInterrupt:
+            print("\n✨ Wisp rests...")
+            break
+        except Exception as e:
+            print(f"⚠️ Error: {e}")
+
+if __name__ == "__main__":
+    main()

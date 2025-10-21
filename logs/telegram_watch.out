@@ -1,7 +1,2 @@
-nohup: ignoring input
-[2025-09-30T12:34:00Z] watch started
-curl: (56) Recv failure: Connection reset by peer
-[2025-10-06T17:22:20Z] summon (plain) chat=-1002314190734 -> river
-curl: (35) Recv failure: Connection reset by peer
-[2025-10-07T09:43:44Z] status from chat=5423238284
-[2025-10-07T10:25:01Z] status from chat=5423238284
+[2025-10-19T10:40:01Z] watch started
+[2025-10-19T10:40:01Z] summon (plain) chat=-1002314190734 -> river

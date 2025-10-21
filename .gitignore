@@ -1,0 +1,26 @@
+# Secrets and sessions
+*.session
+*.session-journal
+.env
+mcp/secrets/
+config/telegram.env*
+
+# Logs
+*.log
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+
+# Backups
+*.tar.gz
+backups/
+*_backup_*/

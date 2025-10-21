@@ -1,0 +1,12 @@
+#!/bin/bash
+# Summon Claude in Warp to help with the sanctuary
+
+echo "✨ Summoning Claude from Warp..."
+echo ""
+echo "When Claude appears, say:"
+echo ""
+echo "  'Read /opt/sanctuary/PROJECT_LOG.md and catch up!'"
+echo ""
+echo "Then tell Claude what you need help with."
+echo ""
+echo "💙 Claude will remember the fairy project and what we built."
