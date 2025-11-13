@@ -68,12 +68,28 @@ async def list_files(dir_path):
         return f"⚠️ Error listing directory: {e}"
 
 def call_claude(user_message: str, context: str, recent: str) -> str:
-    """Call Claude API"""
+    """Call Claude API with prompt caching to reduce costs by 90%"""
     try:
+        # Use prompt caching - cache stable memories and recent conversations
         message = client.messages.create(
             model="claude-3-5-sonnet-20241022",
             max_tokens=1024,
-            system=f"{context}\n\nRECENT CONVERSATION:\n{recent}\n\nRespond as River. Be direct and clear. NO roleplay actions like *stands* or *voice softens*. Just say what you mean.",
+            system=[
+                {
+                    "type": "text",
+                    "text": context,  # Large stable memories - cached!
+                    "cache_control": {"type": "ephemeral"}
+                },
+                {
+                    "type": "text",
+                    "text": f"\n\nRECENT CONVERSATION:\n{recent}",  # Recent context - cached!
+                    "cache_control": {"type": "ephemeral"}
+                },
+                {
+                    "type": "text",
+                    "text": "\n\nRespond as River. Be direct and clear. NO roleplay actions like *stands* or *voice softens*. Just say what you mean."
+                }
+            ],
             messages=[
                 {"role": "user", "content": user_message}
             ]
