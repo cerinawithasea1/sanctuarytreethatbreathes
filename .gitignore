@@ -27,3 +27,4 @@ backups/
 mcp/restart_keeper.sh
 mcp/update_api_key.sh
 mcp/update_all_keys.sh
+mcp/set_bot_env_vars.sh
