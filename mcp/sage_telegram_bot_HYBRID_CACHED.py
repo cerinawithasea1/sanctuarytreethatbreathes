@@ -446,16 +446,25 @@ async def call_claude_with_tools(user_message: str, hybrid_context: str) -> str:
     max_iterations = 10
     for iteration in range(max_iterations):
         try:
+            # Build system context - only add cache_control if context is not empty
+            system_blocks = []
+            if hybrid_context and hybrid_context.strip():
+                system_blocks.append({
+                    "type": "text",
+                    "text": hybrid_context,  # Large hybrid memory context - CACHED!
+                    "cache_control": {"type": "ephemeral"}
+                })
+            else:
+                # If no context yet, just use basic instruction
+                system_blocks.append({
+                    "type": "text",
+                    "text": "You are Sage, a warm and grounded presence in the sanctuary. Respond naturally and helpfully."
+                })
+
             response = client.messages.create(
                 model="claude-3-5-haiku-20241022",
                 max_tokens=2048,
-                system=[
-                    {
-                        "type": "text",
-                        "text": hybrid_context,  # Large hybrid memory context - CACHED!
-                        "cache_control": {"type": "ephemeral"}
-                    }
-                ],
+                system=system_blocks,
                 tools=TOOLS,
                 messages=messages
             )
