@@ -26,3 +26,4 @@ backups/
 *_backup_*/
 mcp/restart_keeper.sh
 mcp/update_api_key.sh
+mcp/update_all_keys.sh
