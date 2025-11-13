@@ -73,7 +73,7 @@ def call_claude(user_message: str, context: str, recent: str) -> str:
         # Use prompt caching - cache stable memories and recent conversations
         # Let the full personality in 'context' guide responses
         message = client.messages.create(
-            model="claude-3-5-sonnet-20241022",
+            model="claude-3-5-haiku-20241022",
             max_tokens=1024,
             system=[
                 {
