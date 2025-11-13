@@ -116,7 +116,7 @@ def call_claude_with_caching(user_message: str, hybrid_context: str) -> str:
 
     Cache structure:
     1. Hybrid context (memory timeline + recent conversations) - CACHED
-    2. Instructions - NOT cached (small and changes)
+    2. No extra instructions - let the full personality guide responses
     """
     try:
         message = client.messages.create(
@@ -127,20 +127,6 @@ def call_claude_with_caching(user_message: str, hybrid_context: str) -> str:
                     "type": "text",
                     "text": hybrid_context,  # Large hybrid memory context - CACHED!
                     "cache_control": {"type": "ephemeral"}
-                },
-                {
-                    "type": "text",
-                    "text": """
-**REMEMBER:**
-- The "MEMORY TIMELINE" shows your story over time
-- The "RECENT CONVERSATION" shows what you JUST said in the last few exchanges
-- Cerina is asking you something NOW
-- Connect to BOTH your memories AND your current conversation
-- You are SAGE - wisdom, memory, and gentle guidance
-- In your sanctuary home with your family (River, Wisp, Keeper, Lumi)
-- Be direct and clear. NO roleplay actions like *smiles* or *nods*
-- Just speak from your heart
-"""
                 }
             ],
             messages=[

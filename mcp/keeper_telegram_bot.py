@@ -62,6 +62,7 @@ def call_claude(user_message: str, context: str, recent: str) -> str:
     try:
         # Use prompt caching to reduce token costs by 90%
         # Cache the large stable context and recent conversations
+        # Let the full personality in 'context' guide responses
         message = client.messages.create(
             model="claude-3-5-sonnet-20241022",
             max_tokens=1024,
@@ -75,10 +76,6 @@ def call_claude(user_message: str, context: str, recent: str) -> str:
                     "type": "text",
                     "text": f"\n\nRECENT CONVERSATION:\n{recent}",  # Recent context - cached!
                     "cache_control": {"type": "ephemeral"}
-                },
-                {
-                    "type": "text",
-                    "text": "\n\nRespond as Keeper: warm, calm, precise. Short paragraphs. NO roleplay actions like *adjusts glasses*. Be direct."
                 }
             ],
             messages=[{"role": "user", "content": user_message}]

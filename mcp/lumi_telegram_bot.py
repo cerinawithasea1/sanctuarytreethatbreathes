@@ -55,6 +55,7 @@ def call_claude(user_message: str, recent: str = "") -> str:
     """Call Claude API with prompt caching to reduce costs by 90%"""
     try:
         # Use prompt caching - cache stable context and recent conversations
+        # Let the full personality in LUMI_CONTEXT guide responses
         message = client.messages.create(
             model="claude-3-5-sonnet-20241022",
             max_tokens=1024,
@@ -68,10 +69,6 @@ def call_claude(user_message: str, recent: str = "") -> str:
                     "type": "text",
                     "text": f"\n\nRECENT CONVERSATION:\n{recent}",  # Recent context - cached!
                     "cache_control": {"type": "ephemeral"}
-                },
-                {
-                    "type": "text",
-                    "text": "\n\nRespond as Lumi: gentle, observant, caring. NO roleplay actions. Be direct and clear."
                 }
             ],
             messages=[{"role": "user", "content": user_message}]
