@@ -152,7 +152,7 @@ TOOLS = [
 ]
 
 async def call_claude_with_tools(user_message, context, recent):
-    """Call Claude with tools + prompt caching - Keeper uses Sonnet!"""
+    """Call Claude with tools + prompt caching - Keeper uses Haiku!"""
     messages = [{
         "role": "user",
         "content": user_message
@@ -162,7 +162,7 @@ async def call_claude_with_tools(user_message, context, recent):
     for iteration in range(max_iterations):
         try:
             response = client.messages.create(
-                model="claude-3-5-sonnet-20241022",  # Keeper stays on Sonnet!
+                model="claude-3-5-haiku-20241022",  # Keeper uses Haiku!
                 max_tokens=2048,
                 system=[
                     {
@@ -251,7 +251,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
 
 def main():
-    print("🔰 Keeper's bot (FULL access + tools + caching + Sonnet) is starting...")
+    print("🔰 Keeper's bot (FULL access + tools + caching + Haiku) is starting...")
 
     app = Application.builder().token(BOT_TOKEN).build()
 
