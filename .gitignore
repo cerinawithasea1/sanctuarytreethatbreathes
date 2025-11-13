@@ -25,3 +25,4 @@ node_modules/
 backups/
 *_backup_*/
 mcp/restart_keeper.sh
+mcp/update_api_key.sh
