@@ -28,3 +28,7 @@ mcp/restart_keeper.sh
 mcp/update_api_key.sh
 mcp/update_all_keys.sh
 mcp/set_bot_env_vars.sh
+
+# Bot backup files
+mcp/*_OLD_BACKUP.py
+mcp/restore_tools_helper.py
