@@ -24,3 +24,4 @@ node_modules/
 *.tar.gz
 backups/
 *_backup_*/
+mcp/restart_keeper.sh
